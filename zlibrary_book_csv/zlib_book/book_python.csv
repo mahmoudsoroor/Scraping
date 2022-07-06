@@ -1,0 +1,501 @@
+book_author,book_link,book_title,file_type_size,language,rate_interest,rate_quality,year
+Jamie Chan,https://tr.eg1lib.org/book/2519956/2c2800,Learn Python in One Day and Learn It Well,"EPUB, 397 KB",english,5.0,5.0,2015
+John Paul Mueller,https://tr.eg1lib.org/book/3601991/d7c3d6,Beginning Programming with Python for Dummies,"PDF, 8.61 MB",english,5.0,5.0,2018
+Matt Harrison,https://tr.eg1lib.org/book/3673710/96f062,Illustrated Guide to Python 3: A Complete Walkthrough of Beginning Python with Unique Illustrations Showing how Python Really Works,"EPUB, 3.12 MB",english,5.0,5.0,2017
+H. Bhasin,https://tr.eg1lib.org/book/3641986/812370,Python Basics: A Self-Teaching Introduction,"PDF, 11.64 MB",english,4.0,4.5,2019
+Andreas C. Müller,https://tr.eg1lib.org/book/2600143/062a5c,Introduction to Machine Learning with Python: A Guide for Data Scientists,"PDF, 31.62 MB",english,5.0,5.0,2016
+Eric Matthes,https://tr.eg1lib.org/book/4995914/5d84d3,"Python Crash Course, 2nd Edition","PDF, 6.69 MB",english,5.0,5.0,2019
+Zed A. Shaw,https://tr.eg1lib.org/book/3492905/ebdb92,Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code,"PDF, 2.86 MB",english,5.0,5.0,2017
+Joel Grus,https://tr.eg1lib.org/book/4989630/29a81f,"Data Science from Scratch: First Principles with Python, Second Edition","EPUB, 4.65 MB",english,4.5,5.0,2019
+Wes McKinney,https://tr.eg1lib.org/book/3367370/62327b,"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython","PDF, 12.52 MB",english,5.0,5.0,2017
+Chris Albon,https://tr.eg1lib.org/book/3606405/f316a4,Python Machine Learning Cookbook: Practical Solutions from Preprocessing to Deep Learning,"PDF, 4.59 MB",english,4.0,5.0,2018
+John Shovic,https://tr.eg1lib.org/book/4992130/b9786d,Python All-In-One for Dummies,"PDF, 40.89 MB",english,5.0,5.0,2019
+Robert Johansson,https://tr.eg1lib.org/book/3649126/4409f0,"Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib","PDF, 23.46 MB",english,5.0,5.0,2019
+Nichola Lacey,https://tr.eg1lib.org/book/5064269/1c9a1f,Python by Example - Learning to Program in 150 Challenges,"PDF, 9.79 MB",english,5.0,5.0,2019
+Luciano Ramalho,https://tr.eg1lib.org/book/2575636/8f8e85,Fluent Python,"PDF, 17.53 MB",english,5.0,4.0,2015
+Dan Bader,https://tr.eg1lib.org/book/3525476/83453b,Python Tricks: A Buffet of Awesome Python Features,"PDF, 1.25 MB",english,5.0,5.0,2017
+David Kopec,https://tr.eg1lib.org/book/3709687/b9b52a,Classic Computer Science Problems in Python,"PDF, 4.28 MB",english,5.0,5.0,2019
+Peters Morgan,https://tr.eg1lib.org/book/4984913/d5c64f,"Data Analysis From Scratch With Python: Beginner Guide using Python, Pandas, NumPy, Scikit-Learn, IPython, TensorFlow and Matplotlib","PDF, 2.79 MB",english,5.0,5.0,2018
+Jake VanderPlas,https://tr.eg1lib.org/book/2881971/d3ba3a,Python Data Science Handbook: Essential Tools for Working with Data,"PDF, 19.90 MB",english,5.0,5.0,2016
+Jamie Chan,https://tr.eg1lib.org/book/5342870/b00ad1,Learn Python in One Day and Learn It Well,"PDF, 459 KB",english,5.0,4.5,2014
+Sebastian Raschka,https://tr.eg1lib.org/book/2827254/77ff6e,"Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow","PDF, 10.79 MB",english,5.0,5.0,2017
+Eric Matthes,https://tr.eg1lib.org/book/3636672/52ea19,Python编程 : 从入门到实践 = Python Crash Course,"PDF, 19.31 MB",chinese,5.0,5.0,2016
+Al Sweigart,https://tr.eg1lib.org/book/2575633/f6d2c0,Automate the Boring Stuff with Python: Practical Programming for Total Beginners,"PDF, 16.64 MB",english,5.0,5.0,2015
+Paul Deitel,https://tr.eg1lib.org/book/4975489/3f6f61,Python for Programmers: with Introductory AI Case Studies,"PDF, 26.90 MB",english,5.0,4.0,2019
+Joshua Eckroth,https://tr.eg1lib.org/book/3618466/ad7503,Python Artificial Intelligence Projects for Beginners - Get up and running with 8 smart and exciting AI applications,"PDF, 16.12 MB",english,5.0,5.0,2018
+Ivan Vasilev,https://tr.eg1lib.org/book/3675383/ffd6c9,"Python Deep Learning: Exploring deep learning techniques, neural network architectures and GANs with PyTorch, Keras and TensorFlow","PDF, 23.96 MB",english,5.0,5.0,2019
+Jan Erik Solem & 萨卡尔 & 卢布诺维克 & Robert Layton & 埃里克·马瑟斯 & 赫曼塔·库玛·梅赫塔 & BePROUD股份有限公司 & 杰奎琳·凯泽尔 & 凯瑟琳·贾缪尔 & 普拉提克·乔西 & 哈利·帕西瓦尔,https://tr.eg1lib.org/book/5786938/d02883,图灵程序设计丛书：Python 高手进阶之路（套装全10册）,"EPUB, 28.26 MB",chinese,4.5,5.0,2018
+Jason Brownlee,https://tr.eg1lib.org/book/3415668/c31f94,Basics of Linear Algebra for Machine Learning - Discover the Mathematical Language of Data in Python,"PDF, 1.34 MB",english,5.0,5.0,2018
+Francois Chollet,https://tr.eg1lib.org/book/3405527/e37e39,Deep Learning with Python,"PDF, 10.91 MB",english,5.0,5.0,2017
+Peter Bruce,https://tr.eg1lib.org/book/5524607/1e8e36,Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python,"PDF, 15.98 MB",english,5.0,5.0,2020
+Peter Farrell,https://tr.eg1lib.org/book/3679894/3740a4,Math Adventures with Python: An Illustrated Guide to Exploring Math with Code,"PDF, 17.42 MB",english,5.0,5.0,2019
+Puneet Mathur,https://tr.eg1lib.org/book/3642067/0720f1,"Machine Learning Applications Using Python - Cases Studies from Healthcare, Retail, and Finance","PDF, 6.94 MB",english,5.0,5.0,2019
+David Beazley,https://tr.eg1lib.org/book/2736444/372337,"Python Cookbook: Recipes for Mastering Python 3, 3rd Edition","PDF, 10.00 MB",english,5.0,5.0,2013
+Ryan Mitchell,https://tr.eg1lib.org/book/3515980/5d50aa,Web Scraping with Python: Collecting More Data from the Modern Web,"PDF, 6.35 MB",english,5.0,5.0,2018
+Seth Weidman,https://tr.eg1lib.org/book/5256841/be68ca,Deep Learning from Scratch: Building with Python from First Principles,"EPUB, 4.91 MB",english,4.0,5.0,2019
+Michael T. Goodrich,https://tr.eg1lib.org/book/2089156/1e610b,Data Structures and Algorithms in Python,"PDF, 5.62 MB",english,0,0,2013
+Gowrishankar S.,https://tr.eg1lib.org/book/3639769/44ba97,Introduction to Python Programming,"PDF, 14.11 MB",english,3.5,0,2019
+Mark Lutz,https://tr.eg1lib.org/book/2159065/1a5e51,Learning Python: powerful object-oriented programming,"PDF, 14.72 MB",english,5.0,5.0,2013
+Paul Barry,https://tr.eg1lib.org/book/2841722/b34f17,Head First Python  A Brain-Friendly Guide,"PDF, 87.02 MB",english,4.5,5.0,2016
+Justin Seitz,https://tr.eg1lib.org/book/2475649/baf4dc,Black Hat Python: Python Programming for Hackers and Pentesters,"PDF, 3.02 MB",english,5.0,5.0,2014
+Bill Karwin,https://tr.eg1lib.org/book/10982162/656d53,图灵程序设计丛书：大规模数据处理入门与实战（套装全10册 Kafka权威指南 Flink基础教程 数据科学实战 SQL反模式 SQL必知必会（第4版） Spark快速大数据分析 数据科学入门 Python数据挖掘入门与实践 Hadoop安全：大数据平台隐私保护 Hadoop数据分析）,"EPUB, 17.65 MB",chinese,5.0,5.0,2018
+Al Sweigart,https://tr.eg1lib.org/book/5342891/c5ae7c,"Automate the Boring Stuff with Python, 2nd Edition","PDF, 14.20 MB",english,5.0,5.0,2019
+David J. Pine,https://tr.eg1lib.org/book/3697912/d54b5b,Introduction to Python for Science and Engineering,"PDF, 5.22 MB",english,5.0,5.0,2019
+Project Syntax,https://tr.eg1lib.org/book/2950584/10f8a1,Python and Hacking Made Simple: Full Beginners Bundle To Master Python & Hacking,"EPUB, 1.34 MB",english,4.0,0,2017
+Eric Matthes,https://tr.eg1lib.org/book/2708675/f4a3d9,"Python Crash Course: A Hands-On, Project-Based Introduction to Programming","PDF, 5.38 MB",english,5.0,0,2015
+Antonio Melé,https://tr.eg1lib.org/book/5444952/62e8ea,Django 3 By Example: Build powerful and reliable Python web applications from scratch,"PDF, 9.07 MB",english,5.0,5.0,2020
+Wes McKinney,https://tr.eg1lib.org/book/5422102/5e0803,利用Python进行数据分析 原书第2版,"PDF, 16.58 MB",chinese,5.0,5.0,2018
+Matt Harrison,https://tr.eg1lib.org/book/3632316/9db29c,"Learning the Pandas Library: Python Tools for Data Munging, Analysis, and Visual","PDF, 6.98 MB",english,4.0,0,2016
+Jeff Simon,https://tr.eg1lib.org/book/2951868/bf3d1b,Hacking  Hacking Practical Guide for Beginners (Hacking With Python),"PDF, 10.87 MB",english,5.0,5.0,2016
+Jaime Buelta,https://tr.eg1lib.org/book/5557856/e46648,"Python Automation Cookbook: 75 Python automation ideas for web scraping, data wrangling, and processing Excel, reports, emails, and more, 2nd Edition","PDF, 11.62 MB",english,3.5,1.0,2020
+Pramod Singh,https://tr.eg1lib.org/book/5322235/770c72,Learn TensorFlow 2.0: Implement Machine Learning And Deep Learning Models With Python,"PDF, 6.22 MB",english,5.0,5.0,2020
+Assad Patel,https://tr.eg1lib.org/book/5458211/fed892,Python 3 : 400 exercises and solutions for beginners,"PDF, 9.55 MB",english,5.0,5.0,2020
+Amit Saha,https://tr.eg1lib.org/book/2604773/334f07,"Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!","PDF, 6.54 MB",english,5.0,5.0,2015
+Julien Danjou,https://tr.eg1lib.org/book/3643608/07da96,Serious Python,"PDF, 8.02 MB",english,5.0,5.0,2018
+斋藤康毅,https://tr.eg1lib.org/book/5330695/51dfcf,深度学习入门：基于Python的理论与实现,"PDF, 10.74 MB",chinese,5.0,5.0,2018
+Bastian Ballmann,https://tr.eg1lib.org/book/2487850/036cf0,Understanding Network Hacks: Attack and Defense with Python,"PDF, 1.95 MB",english,0,5.0,2015
+José Unpingco,https://tr.eg1lib.org/book/2742020/08efc9,"Python for Probability, Statistics, and Machine Learning","PDF, 7.14 MB",english,5.0,5.0,2016
+Davy Cielen,https://tr.eg1lib.org/book/2739951/aeeb06,"Introducing Data Science: Big Data, Machine Learning, and more, using Python tools","PDF, 14.59 MB",english,5.0,5.0,2016
+Dylan Mach,https://tr.eg1lib.org/book/5573792/f74b63,"COMPUTER PROGRAMMING FOR BEGINNERS: 4 Books in 1. LINUX COMMAND-LINE + PYTHON Programming + NETWORKING + HACKING with KALI LINUX. Cybersecurity, Wireless, LTE, Networks, and Penetration Testing","PDF, 3.79 MB",english,5.0,5.0,2020
+William Gray,https://tr.eg1lib.org/book/5002206/718dbb,"Learn Python Programming: Write code from scratch in a clear & concise way, with a complete basic course. From beginners to intermediate, an hands-on project with examples, to follow step by step","EPUB, 576 KB",english,5.0,5.0,2019
+Ankur A Patel,https://tr.eg1lib.org/book/4984764/4782a3,Hands-On Unsupervised Learning Using Python: How to Build Applied Machine Learning Solutions from Unlabeled Data,"EPUB, 4.59 MB",english,0,0,2019
+Dane Hillard,https://tr.eg1lib.org/book/5326898/bfff35,Practices of the Python Pro,"PDF, 4.09 MB",english,5.0,5.0,2019
+Fabio Nelli,https://tr.eg1lib.org/book/3599387/ace85c,"Python Data Analytics: With Pandas, NumPy, and Matplotlib","PDF, 13.95 MB",english,4.5,0,2018
+Luciano Ramalho,https://tr.eg1lib.org/book/5007162/fac508,"流畅的Python = Fluent Python: clear, concise, and effective programming","PDF, 14.53 MB",chinese,5.0,5.0,2017
+Al,https://tr.eg1lib.org/book/5065960/84cde5,Python编程快速上手—让繁琐工作自动化(Automate the boring stuff with python),"PDF, 13.88 MB",chinese,5.0,5.0,2016
+Akshay Kulkarni,https://tr.eg1lib.org/book/3681492/07d64c,Natural Language Processing Recipes: Unlocking Text Data with Machine Learning and Deep Learning using Python,"PDF, 3.82 MB",english,5.0,0,2019
+Al Sweigart,https://tr.eg1lib.org/book/3659314/8a91b4,Cracking Codes with Python: An Introduction to Building and Breaking Ciphers,"PDF, 7.62 MB",english,5.0,5.0,2018
+DK,https://tr.eg1lib.org/book/3384786/e5172e,Coding Projects in Python,"PDF, 21.87 MB",english,5.0,5.0,2017
+Pratap Dangeti,https://tr.eg1lib.org/book/3555108/d84346,"Statistics for Machine Learning: Techniques for exploring supervised, unsupervised, and reinforcement learning models with Python and R","PDF, 16.45 MB",english,0,0,2017
+Rudolph Russell,https://tr.eg1lib.org/book/3525633/869f21,Machine Learning: Step-by-Step Guide To Implement Machine Learning Algorithms with Python,"PDF, 1.58 MB",english,5.0,5.0,2018
+Jason Brownlee,https://tr.eg1lib.org/book/5220424/662bb3,Statistical Methods for Machine Learning: Discover How to Transform Data into Knowledge with Python,"PDF, 2.63 MB",english,0,5.0,2019
+Christoph Dürr,https://tr.eg1lib.org/book/11000183/f5454f,Competitive Programming in Python: 128 Algorithms to Develop your Coding Skills,"PDF, 3.30 MB",english,5.0,5.0,2021
+Jojo John Moolayil,https://tr.eg1lib.org/book/3640070/5f03d8,Learn Keras for Deep Neural Networks: A Fast-Track Approach to Modern Deep Learning with Python,"PDF, 2.74 MB",english,0,0,2019
+[美]埃里克·马瑟斯（Eric Matthes）,https://tr.eg1lib.org/book/17047313/70f35f,Python编程：从入门到实践（第2版）,"PDF, 9.26 MB",chinese,5.0,4.0,2021
+Hobson Lane,https://tr.eg1lib.org/book/4984922/b162b3,"Natural Language Processing in Action: Understanding, analyzing, and generating text with Python","PDF, 9.70 MB",english,4.5,5.0,2019
+Sumit Raj,https://tr.eg1lib.org/book/3642068/da7d8c,Building Chatbots with Python: Using Natural Language Processing and Machine Learning,"PDF, 5.18 MB",english,5.0,0,2019
+Miguel Grinberg,https://tr.eg1lib.org/book/3658054/eb3c50,Flask Web Development: Developing Web Applications With Python,"PDF, 5.36 MB",english,4.5,5.0,2018
+Steven F. Lott,https://tr.eg1lib.org/book/5234631/ead855,"Mastering Object-Oriented Python, 2nd Edition","PDF, 6.38 MB",english,4.0,0,2019
+Allen B. Downey,https://tr.eg1lib.org/book/2647634/4e1291,Think Python: How to Think Like a Computer Scientist,"PDF, 4.21 MB",english,5.0,5.0,2015
+Jason Brownlee,https://tr.eg1lib.org/book/5445228/f90f68,Introduction to Time Series Forecasting with Python: How to Prepare Data and Develop Models to Predict the Future,"PDF, 6.37 MB",english,5.0,4.5,2020
+Ahmed Fawzy Gad,https://tr.eg1lib.org/book/3640071/00dfb7,Practical Computer Vision Applications Using Deep Learning with CNNs: With Detailed Examples in Python Using TensorFlow and Kivy,"PDF, 9.55 MB",english,5.0,5.0,2019
+Sebastien Donadio,https://tr.eg1lib.org/book/5287381/35e76f,Learn Algorithmic Trading: Build and deploy algorithmic trading systems and strategies using Python and advanced data analysis,"PDF, 15.93 MB",english,0,0,2019
+Steve Blair,https://tr.eg1lib.org/book/5325854/b193bd,"Python Data Science: The Ultimate Handbook for Beginners on How to Explore NumPy for Numerical Data, Pandas for Data Analysis, IPython, Scikit-Learn and Tensorflow for Machine Learning and Business","EPUB, 1.90 MB",english,5.0,5.0,2019
+Jeff Cicolani,https://tr.eg1lib.org/book/3504100/1778c0,Beginning Robotics with Raspberry Pi and Arduino: Using Python and OpenCV,"PDF, 7.93 MB",english,5.0,5.0,2018
+Yves Hilpisch,https://tr.eg1lib.org/book/3672683/847426,Python for Finance: Mastering Data-Driven Finance,"EPUB, 10.91 MB",english,5.0,5.0,2019
+Magnus Lie Hetland,https://tr.eg1lib.org/book/916691/af385f,Python Algorithms: Mastering Basic Algorithms in the Python Language,"PDF, 3.21 MB",english,0,5.0,2010
+Steven I. Gordon,https://tr.eg1lib.org/book/3319033/f8ddad,Introduction to Modeling and Simulation with MATLAB® and Python,"PDF, 7.36 MB",english,5.0,0,2017
+Ryan Mitchell,https://tr.eg1lib.org/book/3510020/a857f9,Python网络数据采集,"PDF, 16.70 MB",chinese,4.0,5.0,2016
+José Unpingco,https://tr.eg1lib.org/book/5210867/a76a1d,"Python for Probability, Statistics, and Machine Learning","PDF, 11.11 MB",english,4.0,5.0,2019
+Narasimha Karumanchi,https://tr.eg1lib.org/book/2843422/bc08e9,Data Structure and Algorithmic Thinking with Python  Data Structure and Algorithmic Puzzles,"PDF, 69.96 MB",english,0,0,2016
+Lee Vaughan,https://tr.eg1lib.org/book/3653550/a0ecde,Impractical Python Projects: Playful Programming Activities to Make You Smarter,"PDF, 24.87 MB",english,4.0,2.0,2018
+Adrian Rosebrock,https://tr.eg1lib.org/book/3559375/00e406,"Deep Learning for Computer Vision with Python, Volume 1","PDF, 26.44 MB",english,5.0,5.0,2017
+Al Sweigart,https://tr.eg1lib.org/book/3362147/498f19,Invent Your Own Computer Games with Python,"PDF, 8.42 MB",english,4.5,5.0,2016
+王秀文 & 郭明鑫 & 王宇韬,https://tr.eg1lib.org/book/16885684/a5ff80,超简单：用Python让Excel飞起来（零基础学python，用python实现办公自动化，让excel化繁为简，减少重复工作）,"EPUB, 12.16 MB",chinese,4.0,0,2020
+Rod Stephens,https://tr.eg1lib.org/book/4999553/6d187a,Essential Algorithms: A Practical Approach to Computer Algorithms Using Python and C#,"PDF, 11.04 MB",english,5.0,5.0,2019
+Benjamin Bengfort,https://tr.eg1lib.org/book/3606239/b8af58,Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning,"PDF, 13.97 MB",english,3.0,5.0,2018
+Galit Shmueli,https://tr.eg1lib.org/book/5288620/4328b7,"Data Mining for Business Analytics: Concepts, Techniques and Applications in Python","EPUB, 7.20 MB",english,0,0,2020
+Lentin Joseph,https://tr.eg1lib.org/book/3706041/d2c4f2,"Learning Robotics using Python: Design, simulate, program, and prototype an autonomous mobile robot using ROS, OpenCV, PCL, and Python","PDF, 18.75 MB",english,5.0,5.0,2018
+Connor P. Milliken,https://tr.eg1lib.org/book/5397996/6aa85e,Python Projects for Beginners: A Ten-Week Bootcamp Approach to Python Programming,"PDF, 3.85 MB",english,3.0,0,2020
+Mark E. Fenner,https://tr.eg1lib.org/book/5517615/dfeda2,Machine Learning With Python For Everyone,"PDF, 9.00 MB",english,0,0,2020
+Justin Seitz,https://tr.eg1lib.org/book/610566/04930f,Gray Hat Python: Python Programming for Hackers and Reverse Engineers,"PDF, 3.04 MB",english,0,0,2009
+Zed A. Shaw,https://tr.eg1lib.org/book/3367049/66fb4a,Learn More Python 3 the Hard Way: The Next Step for New Python Programmers,"PDF, 2.61 MB",english,5.0,5.0,2017
+Francois Chollet,https://tr.eg1lib.org/book/5326804/8eece9,Python深度学习,"PDF, 18.90 MB",chinese,5.0,5.0,2018
+Imran Ahmad,https://tr.eg1lib.org/book/5591990/35cee0,40 Algorithms Every Programmer Should Know: Hone your problem-solving skills by learning different algorithms and their implementation in Python,"PDF, 19.58 MB",english,5.0,5.0,2020
+关东升 [关东升],https://tr.eg1lib.org/book/13567017/3332df,看漫画学Python：有趣、有料、好玩、好用：全彩版,"PDF, 81.73 MB",chinese,5.0,0,2020
+Bob Gregory,https://tr.eg1lib.org/book/5416700/4e72c9,"Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices","EPUB, 6.81 MB",english,5.0,5.0,2020
+Shayne Fletcher,https://tr.eg1lib.org/book/946844/b1b9a8,Financial Modelling in Python (The Wiley Finance Series),"PDF, 3.71 MB",english,4.5,0,2009
+Jason Brownlee,https://tr.eg1lib.org/book/5206515/11b07b,"Machine Learning Mastery with Python: Understand Your Data, Create Accurate Models and Work Projects End-To-End","PDF, 2.39 MB",english,5.0,0,2016
+Al Sweigart,https://tr.eg1lib.org/book/11253983/309e38,Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code,"PDF, 7.61 MB",english,5.0,5.0,2020
+Bradley N. Miller,https://tr.eg1lib.org/book/11103536/7e163a,Python数据结构与算法分析（第2版）,"PDF, 10.32 MB",chinese,5.0,5.0,2019
+Seppe vanden Broucke,https://tr.eg1lib.org/book/3504110/25c7a7,Practical Web Scraping for Data Science: Best Practices and Examples with Python,"PDF, 4.79 MB",english,4.0,5.0,2018
+Brett Slatkin,https://tr.eg1lib.org/book/5502141/a6ddbc,Effective Python: 90 Specific Ways to Write Better Python,"PDF, 12.21 MB",english,5.0,5.0,2020
+Eryk Lewinson,https://tr.eg1lib.org/book/5396066/b413f1,Python for Finance Cookbook: Over 50 recipes for applying modern Python libraries to quantitative finance to analyze data,"PDF, 32.81 MB",english,5.0,5.0,2020
+Joel Grus,https://tr.eg1lib.org/book/11421680/6714b4,Data Science from Scratch: First Principles with Python,"PDF, 10.77 MB",english,4.5,3.5,2019
+Adnan Aziz,https://tr.eg1lib.org/book/3599068/9857c8,Elements of Programming Interviews in Python: The Insiders’ Guide,"PDF, 235.38 MB",english,5.0,3.0,2016
+Avishek Pal,https://tr.eg1lib.org/book/3413340/2eb247,"Practical time series analysis: master time series data processing, visualization, and modeling using Python","PDF, 11.80 MB",english,0,0,2017
+William S. Vincent,https://tr.eg1lib.org/book/5288427/a89fa8,Django for Professionals: Production Websites with Python & Django,"PDF, 12.54 MB",english,4.0,0,2019
+Jason Brownlee,https://tr.eg1lib.org/book/3647669/1bab65,Deep Learning with Python: Develop Deep Learning Models on Theano and TensorFLow Using Keras,"PDF, 4.64 MB",english,5.0,4.0,2016
+Alberto Fernández Villán,https://tr.eg1lib.org/book/4991719/78b227,"Mastering OpenCV 4 with Python: A Practical Guide Covering Topics from Image Processing, Augmented Reality to Deep Learning with OpenCV 4 and Python 3.7","EPUB, 50.52 MB",english,5.0,0,2019
+Kyran Dale,https://tr.eg1lib.org/book/2695682/9eacb1,"Data Visualization with Python and JavaScript: Scrape, Clean, Explore & Transform Your Data","PDF, 14.48 MB",english,4.0,0,2016
+Dow,https://tr.eg1lib.org/book/3695529/6b4930,Internet of Things Programming Projects: Build modern IoT solutions with the Raspberry Pi 3 and Python,"PDF, 84.49 MB",english,5.0,5.0,2018
+Michael Heydt,https://tr.eg1lib.org/book/3524989/5646dd,"Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS","PDF, 15.98 MB",english,4.0,0,2018
+Carol Vorderman,https://tr.eg1lib.org/book/3691818/76184f,Coding Games in Python,"PDF, 29.56 MB",english,5.0,5.0,2018
+Svein Linge,https://tr.eg1lib.org/book/5278177/c6fd1b,Programming For Computations - Python: A Gentle Introduction To Numerical Simulations With Python 3.6,"PDF, 7.08 MB",english,5.0,5.0,2020
+Yves Hilpisch,https://tr.eg1lib.org/book/5621291/4f0342,Python for Algorithmic Trading: From Idea to Cloud Deployment (EARLY RELEASE),"EPUB, 9.77 MB",english,0,0,2021
+Aaron Asadi,https://tr.eg1lib.org/book/2564640/2e1807,The Python Book: The Ultimate Guide to Coding with Python,"PDF, 38.94 MB",english,0,0,2015
+Steven Bird,https://tr.eg1lib.org/book/755716/be52d7,Natural Language Processing with Python,"PDF, 5.18 MB",english,5.0,5.0,2009
+William S. Vincent,https://tr.eg1lib.org/book/5288428/ac2f5b,Django for APIs: Build Web APIs with Python & Django,"PDF, 8.65 MB",english,5.0,5.0,2019
+Santanu Pattanayak,https://tr.eg1lib.org/book/5220594/8b1d6a,Intelligent Projects Using Python: 9 real-world AI projects leveraging machine learning and deep learning with TensorFlow and Keras,"PDF, 38.21 MB",english,5.0,5.0,2019
+Michael Bowles,https://tr.eg1lib.org/book/5276272/95c188,Machine Learning with Spark™ and Python®: Essential Techniques for Predictive Analytics,"PDF, 7.37 MB",english,0,0,2020
+Bradford Tuckfield,https://tr.eg1lib.org/book/11150095/f9dbae,Dive Into Algorithms: A Pythonic Adventure for the Intrepid Beginner,"PDF, 5.27 MB",english,5.0,4.0,2021
+Sanjib Sinha,https://tr.eg1lib.org/book/2867857/d2635b,Beginning Ethical Hacking with Python,"PDF, 3.69 MB",english,5.0,0,2017
+Harwani,https://tr.eg1lib.org/book/3599388/765a7f,Qt5 Python GUI Programming Cookbook: Building responsive and powerful cross-platform applications with PyQt,"PDF, 4.66 MB",english,0,0,2018
+Noah Gift,https://tr.eg1lib.org/book/5310978/ac8214,Python for DevOps: Learn Ruthlessly Effective Automation,"EPUB, 7.32 MB",english,5.0,5.0,2019
+Eprogramy,https://tr.eg1lib.org/book/3314119/861539,Python: Crash Course - The Ultimate Beginner's Course to Learning Python Programming in Under 12 Hours,"EPUB, 465 KB",english,0,0,2015
+Irv Kalb,https://tr.eg1lib.org/book/3602257/ae26ce,Learn to Program with Python 3: A Step-by-Step Guide to Programming,"PDF, 3.93 MB",english,0,0,2018
+Lee Vaughan,https://tr.eg1lib.org/book/6029813/727680,Real-World Python: A Hacker's Guide to Solving Problems with Code,"PDF, 13.45 MB",english,5.0,5.0,2020
+Jesús Rogel-Salazar,https://tr.eg1lib.org/book/5495912/4886de,Advanced Data Science and Analytics with Python,"PDF, 22.00 MB",english,0,0,2020
+Aidas Bendoraitis,https://tr.eg1lib.org/book/5422789/495673,Django 3 Web Development Cookbook: Actionable solutions to common problems in Python web development,"PDF, 43.16 MB",english,0,5.0,2020
+Matt Harrison,https://tr.eg1lib.org/book/5409914/ec1819,"Pandas 1.x Cookbook: Practical recipes for scientific computing, time series analysis, and exploratory data analysis using Python","PDF, 5.15 MB",english,5.0,5.0,2020
+Yves Hilpisch,https://tr.eg1lib.org/book/6036977/895265,Artificial Intelligence in Finance: A Python-Based Guide,"PDF, 23.74 MB",english,4.5,5.0,2020
+Eric Chou,https://tr.eg1lib.org/book/5395972/f960fe,"Mastering Python Networking: Your one-stop solution to using Python for network automation, programmability, and DevOps","PDF, 12.62 MB",english,0,5.0,2020
+Al Sweigart,https://tr.eg1lib.org/book/16371795/307609,The Big Book of Small Python Projects: 81 Easy Practice Programs,"PDF, 7.31 MB",english,5.0,5.0,2021
+TJ. O'Connor,https://tr.eg1lib.org/book/1311894/b334dc,"Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers","PDF, 7.83 MB",english,4.0,0,2012
+Paul Deitel,https://tr.eg1lib.org/book/5553542/3fa9d1,"Intro to Python forComputer Science and Data Science : Learning to Program with AI, Big Data and the Cloud","PDF, 10.84 MB",english,0,0,2020
+John V. Guttag,https://tr.eg1lib.org/book/3411055/2856c4,Introduction to Computation and Programming Using Python: With Application to Understanding Data,"PDF, 8.52 MB",english,5.0,0,2016
+Eric Matthes,https://tr.eg1lib.org/book/3378460/a9a7e6,Python编程：从入门到实践,"EPUB, 3.47 MB",chinese,5.0,5.0,2016
+Jaan Kiusalaas,https://tr.eg1lib.org/book/462425/5f8183,Numerical Methods in Engineering with Python,"PDF, 7.06 MB",english,5.0,5.0,2010
+Mahesh Venkitachalam,https://tr.eg1lib.org/book/2619493/38b365,Python Playground: Geeky Projects for the Curious Programmer,"PDF, 11.84 MB",english,5.0,5.0,2015
+Alex Galea,https://tr.eg1lib.org/book/3641991/02525f,Applied Data Science with Python and Jupyter,"PDF, 14.28 MB",english,0,3.0,2018
+Jason Brownlee,https://tr.eg1lib.org/book/5424860/140ad8,"Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python","PDF, 8.14 MB",english,5.0,5.0,2018
+Jason Brownlee,https://tr.eg1lib.org/book/5421678/baea98,Generative Adversarial Networks with Python: Deep Learning Generative Models for Image Synthesis and Image Translation,"PDF, 11.19 MB",english,0,0,2019
+Jason Brownlee,https://tr.eg1lib.org/book/5661618/9b954b,"Data Preparation for Machine Learning: Data Cleaning, Feature Selection, and Data Transforms in Python","PDF, 3.12 MB",english,5.0,5.0,2020
+Bradley N. Miller,https://tr.eg1lib.org/book/2372277/cc06ff,Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION,"PDF, 4.16 MB",english,5.0,5.0,2011
+Katharine Jarmul,https://tr.eg1lib.org/book/3595808/aa4edf,"Python Web Scraping: Hands-on data scraping and crawling using PyQT, Selenium, HTML and Python","PDF, 7.15 MB",english,0,4.0,2017
+Zach Codings,https://tr.eg1lib.org/book/5591951/605ae2,"Computer Programming And Cyber Security for Beginners: This Book Includes: Python Machine Learning, SQL, Linux, Hacking with Kali Linux, Ethical Hacking. Coding and Cybersecurity Fundamentals","EPUB, 745 KB",english,5.0,5.0,2019
+B.J. Korites,https://tr.eg1lib.org/book/3687303/595f16,Python Graphics: A Reference for Creating 2D and 3D Images,"PDF, 10.41 MB",english,5.0,5.0,2018
+Himanshu Singh,https://tr.eg1lib.org/book/4980857/a17f00,"Practical Machine Learning and Image Processing: For Facial Recognition, Object Detection, and Pattern Recognition Using Python","PDF, 4.78 MB",english,5.0,5.0,2019
+Felix Zumstein,https://tr.eg1lib.org/book/12341545/8daa29,Python for Excel: A Modern Environment for Automation and Data Analysis,"PDF, 9.08 MB",english,5.0,5.0,2021
+郑秋生,https://tr.eg1lib.org/book/5416338/81b658,Python项目案例开发从入门到实战：爬虫、游戏和机器学习,"CBR, 51.16 MB",chinese,4.5,0,2019
+Hariom Tatsat,https://tr.eg1lib.org/book/6026102/8496a5,Machine Learning and Data Science Blueprints for Finance: From Building Trading Strategies to Robo-Advisors Using Python,"PDF, 13.64 MB",english,0,5.0,2020
+Yuli Vasiliev,https://tr.eg1lib.org/book/5440508/fa3404,Natural Language Processing with Python and spaCy: A Practical Introduction,"EPUB, 4.35 MB",english,5.0,5.0,2020
+Jason R. Briggs,https://tr.eg1lib.org/book/1311955/01712e,Python for Kids: A Playful Introduction to Programming,"PDF, 13.28 MB",english,5.0,5.0,2013
+埃里克·马瑟斯,https://tr.eg1lib.org/book/11134321/a80148,Python编程：从入门到实践（第2版）,"MOBI , 7.12 MB",chinese,5.0,5.0,2020
+Daniel Y. Chen,https://tr.eg1lib.org/book/3311443/7a0126,Pandas for Everyone.  Python Data Analysis,"PDF, 5.63 MB",english,0,0,2017
+Ashwin Pajankar,https://tr.eg1lib.org/book/6099153/c1f080,Practical Python Data Visualization: A Fast Track Approach To Learning Data Visualization With Python,"PDF, 4.81 MB",english,5.0,5.0,2021
+Anubhav Singh,https://tr.eg1lib.org/book/5558572/62ba4d,"Hands-On Python Deep Learning for the Web: Integrating neural network architectures to build smart web apps with Flask, Django, and TensorFlow","PDF, 17.41 MB",english,4.0,0,2020
+Titus A. Beu,https://tr.eg1lib.org/book/2872008/223a4d,Introduction to numerical programming: a practical guide for scientists and engineers using Python and C/C++,"PDF, 8.35 MB",english,5.0,3.0,2015
+Furqan Khan,https://tr.eg1lib.org/book/4975325/59cbd8,Hands-On Penetration Testing with Python,"PDF, 107.20 MB",english,4.5,0,2019
+Ben Stephenson,https://tr.eg1lib.org/book/5213548/e3d302,The Python Workbook: A Brief Introduction with Exercises and Solutions,"PDF, 5.93 MB",english,4.0,0,2019
+Eyal Wirsansky,https://tr.eg1lib.org/book/5396030/ebe595,Hands-On Genetic Algorithms with Python: Applying genetic algorithms to solve real-world deep learning and artificial intelligence problems,"PDF, 8.98 MB",english,5.0,0,2020
+John V. Guttag,https://tr.eg1lib.org/book/11284291/ccb571,Introduction to Computation and Programming Using Python,"PDF, 21.91 MB",english,0,0,2021
+米切尔,https://tr.eg1lib.org/book/11368486/e12d50,Python网络爬虫权威指南（第 2 版）,"PDF, 9.65 MB",chinese,5.0,5.0,2019
+Jason Brownlee,https://tr.eg1lib.org/book/5005189/f7c6c0,XGBoost with Python: Gradient Boosted Trees with XGBoost and scikit-learn,"PDF, 1.18 MB",english,5.0,5.0,2018
+Jason Brownlee,https://tr.eg1lib.org/book/5312552/f88950,"Deep Learning for Time Series Forecasting: Predict the Future with MLPs, CNNs and LSTMs in Python","PDF, 8.27 MB",english,5.0,0,2019
+Rubin H. Landau,https://tr.eg1lib.org/book/2725893/60d811,Computational Physics: Problem Solving with Python,"PDF, 18.19 MB",english,5.0,0,2015
+Ken Youens-Clark,https://tr.eg1lib.org/book/5658370/b57fa4,Tiny Python Projects: Learn coding and testing with puzzles and games,"PDF, 15.29 MB",english,5.0,5.0,2020
+塔里克·拉希德（Tariq Rashid）,https://tr.eg1lib.org/book/5433614/7ff09d,Python神经网络编程 Make Your Own Neural Network,"PDF, 32.07 MB",chinese,5.0,5.0,2018
+Yves Hilpisch,https://tr.eg1lib.org/book/2600449/eccc29,"Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging","PDF, 6.47 MB",english,2.0,0,2015
+Anirudh Koul,https://tr.eg1lib.org/book/5417428/5d09a0,"Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow","PDF, 26.33 MB",english,4.5,3.5,2019
+Al Sweigart,https://tr.eg1lib.org/book/2224953/379262,Hacking Secret Ciphers with Python: A beginner's guide to cryptography and computer programming with Python,"PDF, 6.61 MB",english,0,0,2013
+Paul Orland,https://tr.eg1lib.org/book/5535619/a0b800,"Math for Programmers - 3D graphics, machine learning, and simulations with Python","PDF, 33.18 MB",english,0,0,2020
+Burkhard Meier,https://tr.eg1lib.org/book/5339203/0ce896,Python GUI Programming Cookbook: Develop functional and responsive user interfaces with tkinter and PyQt5,"PDF, 8.19 MB",english,5.0,5.0,2019
+Luciano Ramalho,https://tr.eg1lib.org/book/3676951/3d1fce,"Fluent Python: Clear, Concise, and Effective Programming","PDF, 16.93 MB",english,5.0,5.0,2015
+埃里克·马瑟斯 [埃里克·马瑟斯],https://tr.eg1lib.org/book/12468172/b324c2,Python编程：从入门到实践（第2版）（新版上线！！！！沿袭第1版讲解清晰透彻、循序渐进的特点，并全面升级！源代码文件+视频讲解+配套编程环境，零基础自学Python一本就够！）（图灵图书）,"EPUB, 3.42 MB",chinese,5.0,5.0,2020
+Alberto Artasanchez,https://tr.eg1lib.org/book/5488347/df55ee,Artificial Intelligence with Python: Your complete guide to building intelligent apps using Python 3.x and TensorFlow 2,"PDF, 15.13 MB",english,5.0,5.0,2020
+Vladimir Silva,https://tr.eg1lib.org/book/3642069/6ad6eb,"Practical Quantum Computing for Developers: Programming Quantum Rigs in the Cloud using Python, Quantum Assembly Language and IBM QExperience","PDF, 10.87 MB",english,5.0,0,2019
+Michal Jaworski,https://tr.eg1lib.org/book/5216086/74734e,Expert Python Programming,"PDF, 7.25 MB",english,3.0,4.0,2019
+Swinnen G.,https://tr.eg1lib.org/book/689661/1bc086,Apprendre a  programmer avec Python.. Avec plus de 40 pages de corriges d'exercices,"PDF, 3.19 MB",french,0,0,2009
+Joel Grus,https://tr.eg1lib.org/book/5371810/bf6c13,Data Science from Scratch: First Principles with Python,"PDF, 4.19 MB",english,4.0,1.0,2019
+Ryan T. White,https://tr.eg1lib.org/book/11681687/6cc361,Practical Discrete Mathematics: Discover math principles that fuel algorithms for computer science and machine learning with Python,"PDF, 5.81 MB",english,5.0,5.0,2021
+Matt Harrison,https://tr.eg1lib.org/book/5248319/f7668e,Machine Learning Pocket Reference: Working with Structured Data in Python,"EPUB, 23.33 MB",english,0,5.0,2019
+Joseph Howse,https://tr.eg1lib.org/book/5408454/74425e,"Learning OpenCV 4 Computer Vision with Python 3: Get to grips with tools, techniques, and algorithms for computer vision and machine learning","PDF, 85.67 MB",english,5.0,5.0,2020
+Percival,https://tr.eg1lib.org/book/3356357/b28d57,"Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript","PDF, 11.63 MB",english,5.0,0,2017
+Kenneth A. Lambert,https://tr.eg1lib.org/book/5275575/e1bc68,Fundamentals Of Python: Data Structures,"PDF, 4.15 MB",english,5.0,5.0,2019
+Daniel Y. Chen,https://tr.eg1lib.org/book/3704486/5bd51f,Pandas for Everyone: Python Data Analysis,"EPUB, 36.00 MB",english,0,0,2017
+Julian Avila,https://tr.eg1lib.org/book/3554247/be5db7,Scikit-Learn Cookbook: Over 80 Recipes for Machine Learning in Python With Scikit-Learn,"PDF, 7.12 MB",english,0,0,2017
+Stefan Jansen,https://tr.eg1lib.org/book/5867328/b4c5ff,"Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python, 2nd Edition","PDF, 22.07 MB",english,5.0,5.0,2020
+Avinash Navlani,https://tr.eg1lib.org/book/11634409/866e42,"Python Data Analysis: Perform data collection, data processing, wrangling, visualization, and model building using Python, 3rd Edition","PDF, 13.06 MB",english,5.0,5.0,2021
+Jaime Buelta,https://tr.eg1lib.org/book/5294732/a45a0e,"Hands-On Docker for Microservices with Python: Design, deploy, and operate a complex system with multiple microservices using Docker and Kubernetes","PDF, 17.37 MB",english,0,0,2019
+Jesse M. Kinder,https://tr.eg1lib.org/book/2615679/f5fe36,A Student's Guide to Python for Physical Modeling,"PDF, 4.80 MB",english,0,5.0,2015
+Charles R. Severance,https://tr.eg1lib.org/book/2799192/dccb48,Python for Everybody,"EPUB, 4.86 MB",english,5.0,4.0,2016
+江雪松 & 邹静 & 邓立国 & 翟锟 & 胡锋 & 周晓然 & 王国平 & 白宁超 & 唐聃 & 文俊 & 张若愚 & 洪锦魁,https://tr.eg1lib.org/book/18022723/abacfb,Python数据分析与算法指南（套装共8册）,"EPUB, 342.64 MB",chinese,5.0,5.0,2020
+David Amos,https://tr.eg1lib.org/book/11909843/597d41,Python Basics: A Practical Introduction to Python 3,"PDF, 6.46 MB",english,5.0,5.0,2021
+Gaston C. Hillar,https://tr.eg1lib.org/book/3514707/7f0cb2,Django RESTful Web Services: The easiest way to build Python RESTful APIs and web services with Django,"PDF, 12.20 MB",english,3.0,3.0,2018
+Paul Gries,https://tr.eg1lib.org/book/3694923/796ad5,Practical Programming: An Introduction to Computer Science Using Python 3.6,"PDF, 8.23 MB",english,4.5,0,2017
+Al Sweigart,https://tr.eg1lib.org/book/5291157/0f2fbd,"Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners","PDF, 13.74 MB",english,5.0,5.0,2020
+Kent Lee,https://tr.eg1lib.org/book/2734410/3ae5a8,Data Structures and Algorithms with Python: Undergraduate Topics in Computer Science,"PDF, 13.20 MB",english,5.0,5.0,2015
+LazyProgrammer,https://tr.eg1lib.org/book/2740843/6cf9f9,"Convolutional Neural Networks in Python: Master Data Science and Machine Learning with Modern Deep Learning in Python, Theano, and TensorFlow (Machine Learning in Python)","EPUB, 1.21 MB",english,5.0,0,2016
+Luciano Ramalho,https://tr.eg1lib.org/book/17194890/bf297b,"Fluent Python, 2nd Edition","PDF, 14.39 MB",english,5.0,3.5,2021
+Abhishek Nandy,https://tr.eg1lib.org/book/3420300/0dd593,"Reinforcement Learning: With Open AI, TensorFlow and Keras Using Python","PDF, 11.01 MB",english,0,0,2018
+Mariano Anaya,https://tr.eg1lib.org/book/11637627/537f4c,"Clean Code in Python: Develop maintainable and efficient code, 2nd Edition","PDF, 3.00 MB",english,4.0,5.0,2021
+Ray Yao,https://tr.eg1lib.org/book/5855207/39e3dc,"Coding Interview, 1000 Questions & Answers: Including Examination of C#, C++, HTML, CSS, JQuery, JavaScript, JAVA, Linux, PHP, MySQL, Python, Visual Basic Courses","EPUB, 275 KB",english,0,0,2020
+Reuven M. Lerner,https://tr.eg1lib.org/book/5598977/a2e114,Python Workout: 50 Essential Exercises,"PDF, 9.15 MB",english,4.0,4.5,2020
+John T. Wolohan,https://tr.eg1lib.org/book/5395670/79b2c5,Mastering Large Datasets with Python: Parallelize and Distribute Your Python Code,"PDF, 17.41 MB",english,5.0,5.0,2020
+Jose Manuel Ortega,https://tr.eg1lib.org/book/11634355/b316e8,Mastering Python for Networking and Security: Leverage the scripts and libraries of Python version 3.7 and beyond to overcome networking and security issues,"PDF, 7.02 MB",english,5.0,4.0,2021
+Stefan Jansen,https://tr.eg1lib.org/book/5690419/79c063,"Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python, 2nd Edition","EPUB, 27.14 MB",english,5.0,0,2020
+Jason Brownlee,https://tr.eg1lib.org/book/5566238/0c36c8,Long Short-Term Memory Networks With Python: Develop Sequence Prediction Models With Deep Learning,"PDF, 6.78 MB",english,5.0,5.0,2017
+Paul J. Deitel,https://tr.eg1lib.org/book/5623580/cb98d6,"Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and The Cloud","PDF, 73.52 MB",english,5.0,0,2020
+R. M. Lewis,https://tr.eg1lib.org/book/3715077/0a2b7b,Tutorial fácil de seguir para aprender la programación de Python en menos de una semana,"PDF, 477 KB",spanish,5.0,5.0,2017
+Yves Hilpisch,https://tr.eg1lib.org/book/2481325/ffc896,Python for Finance: Analyze Big Financial Data,"PDF, 10.49 MB",english,5.0,0,2014
+Palash Goyal,https://tr.eg1lib.org/book/3606242/b2b146,Deep Learning for Natural Language Processing: Creating Neural Networks with Python,"PDF, 7.29 MB",english,0,2.0,2018
+吴茂贵 [吴茂贵],https://tr.eg1lib.org/book/11374899/b93a33,Python深度学习：基于PyTorch (智能系统与技术丛书),"PDF, 21.55 MB",chinese,5.0,5.0,2019
+Clenow,https://tr.eg1lib.org/book/5256907/ced2a5,Trading Evolved: Anyone can Build Killer Trading Strategies in Python,"EPUB, 3.74 MB",english,0,0,2019
+Wei-Meng Lee,https://tr.eg1lib.org/book/4977600/afba24,Python Machine Learning,"PDF, 8.73 MB",english,0,0,2019
+Irv Kalb,https://tr.eg1lib.org/book/18215017/a0bafa,Object-Oriented Python,"PDF, 4.89 MB",english,4.5,0,2022
+Brian Allbee,https://tr.eg1lib.org/book/3655462/b894c7,Hands-On Software Engineering with Python: Move beyond basic programming and construct reliable and efficient software with complex code,"PDF, 19.69 MB",english,0,0,2018
+Gayathri Rajagopalan,https://tr.eg1lib.org/book/11078294/7bcf98,A Python Data Analyst’s Toolkit: Learn Python And Python-based Libraries With Applications In Data Analysis And Statistics,"PDF, 7.88 MB",english,0,0,2021
+Steven F. Lott,https://tr.eg1lib.org/book/16673465/eb3756,Python Object-Oriented Programming: Build robust and maintainable object-oriented Python applications and libraries,"PDF, 6.51 MB",english,4.5,5.0,2021
+Miguel Rocha,https://tr.eg1lib.org/book/3640872/7b7be1,Bioinformatics Algorithms: Design and Implementation in Python,"PDF, 6.70 MB",english,5.0,5.0,2018
+Jan Erik Solem,https://tr.eg1lib.org/book/1291523/a76e85,Programming Computer Vision with Python: Tools and algorithms for analyzing images,"PDF, 68.84 MB",english,0,0,2012
+Hans Petter Langtangen,https://tr.eg1lib.org/book/437854/ea8793,Python Scripting For Computational Science,"PDF, 3.94 MB",english,0,0,2009
+Cooper,https://tr.eg1lib.org/book/5901919/0b454f,"Data science from scratch: the #1 data science guide for everything a data scientist needs to know: Python, linear algebra, statistics, coding, applications, neural networks, and decision trees","EPUB, 1.05 MB",english,5.0,5.0,2018
+嵩天，礼欣，黄天羽 著,https://tr.eg1lib.org/book/5456598/3c3de6,Python语言程序设计基础（第2版）,"PDF, 48.17 MB",chinese,3.0,1.0,2017
+Tristan Bunn,https://tr.eg1lib.org/book/11942851/b430da,Learn Python Visually: Creative Coding with Processing.py,"PDF, 9.01 MB",english,0,5.0,2021
+Allen B. Downey,https://tr.eg1lib.org/book/2737524/36f8a7,"Think Python, 2nd Edition: How to Think Like a Computer Scientist","PDF, 5.35 MB",english,5.0,3.0,2015
+Felix Zumstein,https://tr.eg1lib.org/book/11333428/a3c164,Python for Excel,"EPUB, 9.61 MB",english,3.0,0,2021
+刘河飞 & 闫凯峰,https://tr.eg1lib.org/book/17528738/1c330e,"趣学Python算法100例（详解100个趣味编程算法实例，为Python初学者打造，培养编程兴趣，拓宽编程思维,提高编程能力和算法设计能力）","EPUB, 17.23 MB",chinese,3.0,0,2020
+Ankur A. Patel,https://tr.eg1lib.org/book/5225519/8946f2,Hands-On Unsupervised Learning Using Python: How to Build Applied Machine Learning Solutions from Unlabeled Data,"PDF, 5.97 MB",english,0,0,2019
+Adrienne B. Tacke [Tacke,https://tr.eg1lib.org/book/5545979/5d76cf,Coding for Kids: Python: Learn to Code with 50 Awesome Games and Activities,"PDF, 8.93 MB",english,5.0,5.0,2019
+Hannah Stepanek,https://tr.eg1lib.org/book/5559338/202feb,Thinking in Pandas: How to Use the Python Data Analysis Library the Right Way,"PDF, 2.31 MB",english,0,5.0,2020
+宋天龙,https://tr.eg1lib.org/book/5422101/d84de5,Python数据分析与数据化运营,"PDF, 17.77 MB",chinese,3.5,0,2017
+Dipanjan Sarkar,https://tr.eg1lib.org/book/5242222/716a97,Text Analytics with Python - A Practitioner's Guide to Natural Language Processing,"PDF, 17.25 MB",english,5.0,5.0,2019
+Harrison Kinsley,https://tr.eg1lib.org/book/6150126/9c7ddb,Neural Networks from Scratch in Python,"PDF, 42.65 MB",english,5.0,5.0,2020
+John M. Zelle,https://tr.eg1lib.org/book/3405239/5a87e0,Python Programming: An Introduction to Computer Science,"PDF, 5.70 MB",english,0,0,2016
+Denis Rothman,https://tr.eg1lib.org/book/11722732/283403,"Transformers for Natural Language Processing: Build innovative deep neural network architectures for NLP with Python, PyTorch, TensorFlow, BERT, RoBERTa, and more","PDF, 5.52 MB",english,4.0,5.0,2021
+Joseph Howse,https://tr.eg1lib.org/book/3647627/667c74,Opencv: Computer Vision Projects with Python,"PDF, 13.56 MB",english,0,0,2016
+Micha Gorelick,https://tr.eg1lib.org/book/5490510/6b9206,High Performance Python: Practical Performant Programming for Humans,"EPUB, 5.71 MB",english,0,5.0,2020
+David Griffiths,https://tr.eg1lib.org/book/660071/40bede,Head First Programming: A Learner's Guide to Programming Using the Python Language,"PDF, 16.83 MB",english,5.0,4.5,2009
+Julien Danjou,https://tr.eg1lib.org/book/3709710/9e8e08,"Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More","PDF, 4.72 MB",english,5.0,5.0,2019
+Tim J. Stevens,https://tr.eg1lib.org/book/2573588/01aafc,Python Programming for Biology: Bioinformatics and Beyond,"PDF, 7.75 MB",english,5.0,3.0,2015
+Gábor Szabó,https://tr.eg1lib.org/book/6056587/1ba51d,1000 Python Examples,"PDF, 2.05 MB",english,0,0,2020
+Daniel Zingaro,https://tr.eg1lib.org/book/16431213/7a8d9f,Learn to Code by Solving Problems: A Python Programming Primer,"PDF, 1.96 MB",english,5.0,5.0,2021
+Prof. Diwakar Vaish,https://tr.eg1lib.org/book/3698169/9fa9b9,Python Robotics Projects: Build smart and collaborative robots using Python,"PDF, 20.51 MB",english,0,0,2018
+Stefanie Molin,https://tr.eg1lib.org/book/12515699/f7204e,"Hands-On Data Analysis with Pandas: A Python data science handbook for data collection, wrangling, analysis, and visualization","PDF, 70.84 MB",english,4.5,4.0,2021
+郑秋生 夏敏捷,https://tr.eg1lib.org/book/11824477/522fe9,Python项目案例开发从入门到实战：爬虫、游戏和机器学习,"PDF, 164.23 MB",chinese,4.0,0,
+Gary Smart,https://tr.eg1lib.org/book/11015436/865fb3,"Practical Python Programming for IoT: Build advanced IoT projects using a Raspberry Pi 4, MQTT, RESTful APIs, WebSockets, and Python 3","PDF, 28.37 MB",english,5.0,5.0,2020
+Navin Kumar Manaswi,https://tr.eg1lib.org/book/3579919/8057f9,"Deep Learning with Applications Using Python: Chatbots and Face, Object, and Speech Recognition with Tensorflow and Keras","PDF, 11.27 MB",english,5.0,0,2018
+Mariano Anaya,https://tr.eg1lib.org/book/3608220/10554d,Clean Code in Python: Refactor your legacy codebase,"PDF, 2.82 MB",english,0,0,2018
+Damon,https://tr.eg1lib.org/book/11368194/2065c2,"Coding for Kids : 3 Books in 1: Programming for Beginners: How to Learn: Coding Skills, Create a Game, Programming in Python, and Working with Popular Apps in Less Than 72 Hours","PDF, 2.67 MB",english,5.0,0,2021
+Jason M. Kinser,https://tr.eg1lib.org/book/3692228/51bc86,Image Operators: Image Processing in Python,"PDF, 23.74 MB",english,0,0,2018
+Stubblebine,https://tr.eg1lib.org/book/669096/f01e08,"Regular Expression Pocket Reference: Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET (Pocket Reference (O'Reilly))","PDF, 1002 KB",english,5.0,5.0,2007
+Sebastian Raschka,https://tr.eg1lib.org/book/5309825/79cb17,"Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2","PDF, 26.11 MB",english,5.0,5.0,2019
+Jeffrey Aven,https://tr.eg1lib.org/book/3682978/03cb7b,Data Analytics with Spark Using Python,"PDF, 19.68 MB",english,0,5.0,2018
+Al Sweigart,https://tr.eg1lib.org/book/5372923/602d6e,Python游戏编程快速上手,"PDF, 41.17 MB",chinese,5.0,2.0,2017
+Fahad Ali Sarwar,https://tr.eg1lib.org/book/16678196/79b77d,"Python Ethical Hacking from Scratch: Think like an ethical hacker, avoid detection, and successfully develop, deploy, detect, and avoid malware","PDF, 6.57 MB",english,4.5,5.0,2021
+Michal Jaworski,https://tr.eg1lib.org/book/15423729/0da490,Expert Python Programming: Master Python by learning the best coding practices and advanced programming concepts,"PDF, 4.37 MB",english,5.0,5.0,2021
+Juan Nunez-Iglesias,https://tr.eg1lib.org/book/3608285/7be7fe,Elegant Scipy: The Art of Scientific Python,"PDF, 29.07 MB",english,5.0,5.0,2017
+Gábor László Hajba,https://tr.eg1lib.org/book/3593860/903a72,Website Scraping with Python: Using BeautifulSoup and Scrapy,"PDF, 4.75 MB",english,0,0,2018
+Rajdeep Dua & Manpreet Singh Ghotra,https://tr.eg1lib.org/book/3629128/8c245d,Keras Deep Learning Cookbook: Over 80 Recipes for Implementing Deep Neural Networks in Python,"EPUB, 7.43 MB",english,0,0,2018
+Yuxing Yan,https://tr.eg1lib.org/book/3358884/7d522c,Python for Finance,"PDF, 6.44 MB",english,5.0,0,2017
+Zed A. Shaw,https://tr.eg1lib.org/book/3361170/534d9a,Learn Python 3 the Hard Way - Rough Cuts,"PDF, 5.29 MB",english,0,0,2017
+小甲鱼 [小甲鱼],https://tr.eg1lib.org/book/13956566/dcfb32,零基础入门学习Python（第2版）,"EPUB, 25.41 MB",chinese,4.0,5.0,2019
+Seth James Nielson,https://tr.eg1lib.org/book/5256291/680332,Practical Cryptography in Python: Learning Correct Cryptography by Example,"PDF, 5.90 MB",english,0,0,2019
+Oswald Campesato,https://tr.eg1lib.org/book/5530488/b11021,Python 3 for Machine Learning,"PDF, 5.30 MB",english,0,0,2020
+Yves Hilpisch,https://tr.eg1lib.org/book/11678972/ae6971,Python for Algorithmic Trading: From Idea to Cloud Deployment,"PDF, 23.73 MB",english,5.0,5.0,2020
+Daniel Furtado,https://tr.eg1lib.org/book/3525719/ed4cdc,"Python Programming Blueprints: Build nine projects by leveraging powerful frameworks such as Flask, Nameko, and Django","PDF, 5.93 MB",english,0,0,2017
+Muhammad Yasoob Ullah Khalid,https://tr.eg1lib.org/book/11763082/87e910,Practical Python Projects,"PDF, 43.19 MB",english,5.0,5.0,2021
+Academy,https://tr.eg1lib.org/book/5639788/bc9255,"PYTHON: Learn Coding Programs with Python Programming and Master Data Analysis & Analytics, Data Science and Machine Learning with the Complete Python for Beginners Crash Course - 4 Books in 1","EPUB, 14.25 MB",english,0,0,2020
+Chet Hosmer,https://tr.eg1lib.org/book/3717727/1fcf4c,Powershell and Python Together: Targeting Digital Investigations,"PDF, 10.61 MB",english,3.0,0,2019
+Seth Weidman,https://tr.eg1lib.org/book/5745694/5b1d20,Deep Learning From Scratch: Building With Python From First Principles,"PDF, 5.73 MB",english,4.0,5.0,2019
+Stephen Klosterman,https://tr.eg1lib.org/book/16881745/42c742,"Data Science Projects with Python: A case study approach to gaining valuable insights from real data with machine learning, 2nd Edition","PDF, 11.26 MB",english,4.0,5.0,2021
+Menua Gevorgyan,https://tr.eg1lib.org/book/5421117/c5a5d0,OpenCV 4 with Python Blueprints: Become proficient in computer vision by designing advanced projects using OpenCV 4 with Python 3.8,"PDF, 35.42 MB",english,5.0,5.0,2020
+Jason Brownlee,https://tr.eg1lib.org/book/11785932/06ef0e,Probability for Machine Learning - Discover How To Harness Uncertainty With Python,"PDF, 2.56 MB",english,5.0,5.0,2020
+Jaan Kiusalaas,https://tr.eg1lib.org/book/444943/8c3112,Numerical Methods in Engineering With Python,"PDF, 1.78 MB",english,5.0,0,2005
+Programming Languages Academy,https://tr.eg1lib.org/book/5490135/e1e80d,"Python Workbook: Learn How to Quickly and Effectively Program with Exercises, Projects, and Solutions","PDF, 820 KB",english,4.0,0,2019
+Kunal Relan,https://tr.eg1lib.org/book/5397945/cd2bd8,Building REST APIs with Flask: Create Python Web Services with MySQL,"PDF, 4.50 MB",english,0,0,2019
+Abha Belorkar,https://tr.eg1lib.org/book/5469245/3ec86b,Interactive Data Visualization With Python : present your data as an.,"PDF, 20.05 MB",english,5.0,0,2020
+Sarcar,https://tr.eg1lib.org/book/11379670/40939a,Python Bookcamp: Exercises and Projects,"PDF, 4.39 MB",english,0,0,2021
+John Hunt,https://tr.eg1lib.org/book/5321128/f56e44,Advanced Guide To Python 3 Programming,"PDF, 22.91 MB",english,0,0,2019
+Eric Matthes,https://tr.eg1lib.org/book/3623239/090124,Curso Intensivo de Python,"PDF, 5.08 MB",portuguese,4.0,4.0,2016
+Mueller,https://tr.eg1lib.org/book/4842846/aab8ad,Python Pour les Nuls (French Edition),"EPUB, 5.30 MB",french,0,0,2016
+Hussam Khrais,https://tr.eg1lib.org/book/3596687/836e67,Python for Offensive PenTest,"EPUB, 3.10 MB",english,4.0,0,2018
+Taweh Beysolow II,https://tr.eg1lib.org/book/3592706/0c0fe6,Applied Natural Language Processing with Python: Implementing Machine Learning and Deep Learning Algorithms for Natural Language Processing,"PDF, 2.92 MB",english,4.0,5.0,2018
+Michael Heydt,https://tr.eg1lib.org/book/2735402/e48eff,"Mastering pandas for Finance: Master pandas, an open source Python Data Analysis Library, for financial data analysis","PDF, 6.96 MB",english,0,0,2015
+Justin Seitz,https://tr.eg1lib.org/book/11262669/dc07f3,Black Hat Python: Python Programming for Hackers and Pentesters,"PDF, 4.64 MB",english,0,0,2021
+Krishna Bhavsar,https://tr.eg1lib.org/book/3606241/b6920f,Natural Language Processing with Python Cookbook: Over 60 recipes to implement text analytics solutions using deep learning principles,"PDF, 33.65 MB",english,0,0,2017
+Rance D. Necaise,https://tr.eg1lib.org/book/1192814/2d7e45,Data Structures and Algorithms Using Python,"PDF, 10.19 MB",english,5.0,5.0,2010
+Rudolph Russell,https://tr.eg1lib.org/book/3715069/c5faaa,Machine Learning  - Guía Paso a Paso Para Implementar Algoritmos De Machine Learning Con Python,"EPUB, 1.28 MB",spanish,3.0,5.0,2018
+Anthony Shaw,https://tr.eg1lib.org/book/5973705/f707f1,CPython Internals: Your Guide to the Python 3 Interpreter,"PDF, 10.52 MB",english,5.0,5.0,2021
+Cox,https://tr.eg1lib.org/book/5211084/48b8e2,Getting started with Python for the Internet of Things : leverage the full potential of Python to prototype and build IoT projects using the Raspberry Pi,"EPUB, 60.80 MB",english,0,0,2019
+Michael Walker,https://tr.eg1lib.org/book/11005901/ff7eea,Python Data Cleaning Cookbook: Modern techniques and Python tools to detect and remove dirty data to extract key insights,"EPUB, 3.05 MB",english,4.0,2.0,2021
+Wes McKinney,https://tr.eg1lib.org/book/5359718/3eb664,Python para análise de dados,"PDF, 128.08 MB",portuguese,5.0,5.0,2020
+Sathyajith Bhat,https://tr.eg1lib.org/book/3573383/0899ee,Practical Docker with Python,"PDF, 2.88 MB",english,4.5,5.0,2018
+Adam Stewart,https://tr.eg1lib.org/book/2863306/98cc48,"Python Programming.  Python Programming for Beginners, Python Programming for Intermediates","PDF, 9.89 MB",english,0,0,2016
+Broker,https://tr.eg1lib.org/book/7219874/c64797,MACHINE LEARNING FOR ALGORITHM TRADING : Master as a PRO applied artificial intelligence and Python for predict systematic strategies for options and stocks. Learn data-driven finance using keras,"EPUB, 14.76 MB",english,0,0,2020
+Tony Gaddis,https://tr.eg1lib.org/book/3602131/010721,"Starting Out with Python, Global Edition","PDF, 7.72 MB",english,5.0,5.0,2018
+Francois Chollet,https://tr.eg1lib.org/book/17992678/2f389d,"Deep Learning with Python, 2nd Edition (Final Release)","PDF, 14.43 MB",english,5.0,5.0,2021
+Felipe Cruz,https://tr.eg1lib.org/book/2726638/e92d4a,Python: Escreva seus primeiros programas,"PDF, 954 KB",portuguese,3.0,5.0,2015
+Jason Brownlee,https://tr.eg1lib.org/book/5806919/5ea3e1,Machine Learning Algorithms From Scratch: With Python,"PDF, 1.10 MB",english,0,0,2018
+Peter Bruce,https://tr.eg1lib.org/book/5464970/e6c47c,Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python,"EPUB, 8.91 MB",english,0,3.5,2020
+Yuxi (Hayden) Liu,https://tr.eg1lib.org/book/3685501/4a6eaf,Python Machine Learning By Example: The Easiest Way to Get into Machine Learning,"PDF, 4.88 MB",english,0,0,2017
+北京大学地空学院数据结构与算法课程 2015年及2016年上课同学,https://tr.eg1lib.org/book/5640286/9a2621,问题求解：算法与数据结构（Python 版）,"PDF, 10.87 MB",chinese,3.0,0,2015
+Mark Lutz,https://tr.eg1lib.org/book/2078991/80591e,Programming Python,"PDF, 11.29 MB",english,5.0,5.0,2011
+Mark Lutz,https://tr.eg1lib.org/book/2272701/59531b,"Learning Python, 5th Edition","PDF, 14.46 MB",english,5.0,0,2013
+Daniel Rubio (auth.),https://tr.eg1lib.org/book/3394017/df601d,Beginning Django: Web Application Development and Deployment with Python,"PDF, 10.57 MB",english,0,5.0,2017
+Hu,https://tr.eg1lib.org/book/4976734/04bb61,Introduction to GIS programming and fundamentals with Python and ArcGIS®,"PDF, 21.29 MB",english,0,0,2017
+Kamon Ayeva,https://tr.eg1lib.org/book/3649064/8d7557,"Mastering Python Design Patterns: A guide to creating smart, efficient, and reusable software","PDF, 1.52 MB",english,0,0,2018
+Jason Brownlee,https://tr.eg1lib.org/book/5787592/b036cd,Deep Learning for Natural Language Processing: Develop Deep Learning Models for Natural Language in Python,"PDF, 7.21 MB",english,0,5.0,2017
+John Paul Mueller,https://tr.eg1lib.org/book/3705316/5dfa26,"Python for Data Science, 2nd Edition","EPUB, 8.73 MB",english,5.0,5.0,2019
+Sloan Kelly,https://tr.eg1lib.org/book/5002889/62c3cd,"Python, Pygame, and Raspberry Pi Game Development","PDF, 5.85 MB",english,0,0,2019
+Mark Lutz,https://tr.eg1lib.org/book/2736332/9fa3fc,"Python Pocket Reference, 5th Edition: Python in Your Pocket","PDF, 5.07 MB",english,5.0,4.0,2014
+Mark Myers,https://tr.eg1lib.org/book/3571225/20fdc4,A Smarter Way to Learn Python: Learn it faster. Remember it longer.,"PDF, 1.87 MB",english,5.0,3.0,2017
+Andrea Giussani,https://tr.eg1lib.org/book/5443735/d9b052,Applied Machine Learning with Python,"PDF, 6.53 MB",english,0,0,2020
+Bryson Payne,https://tr.eg1lib.org/book/2578699/a661e2,Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming,"PDF, 14.66 MB",english,0,0,2015
+Suresh Kumar Mukhiya,https://tr.eg1lib.org/book/5531836/f7537e,"Hands-On Exploratory Data Analysis with Python: Perform EDA techniques to understand, summarize, and investigate your data","PDF, 18.75 MB",english,0,0,2020
+Wes McKinney,https://tr.eg1lib.org/book/3366867/90bceb,"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython","EPUB, 2.08 MB",english,0,2.0,2017
+Doug Hellmann,https://tr.eg1lib.org/book/3510108/07fb43,The Python 3 Standard Library by Example,"PDF, 14.14 MB",english,4.0,5.0,2017
+Shalabh Aggarwal,https://tr.eg1lib.org/book/5240653/340053,Flask Framework Cookbook: Over 80 proven recipes and techniques for Python web development with Flask,"EPUB, 4.88 MB",english,0,0,2019
+Michal Jaworski,https://tr.eg1lib.org/book/2734565/43c7e8,"Expert Python Programming, 2nd Edition: Become an ace Python programmer by learning best coding practices and advance-level concepts with Python 3.5","PDF, 41.45 MB",english,0,0,2016
+James Cooper,https://tr.eg1lib.org/book/18764515/e6a552,Python Programming with Design Patterns,"EPUB, 45.00 MB",english,5.0,4.0,2022
+Alexander Lancaster,https://tr.eg1lib.org/book/5256462/56ee20,Python for the Life Sciences: A Gentle Introduction to Python for Life Scientists,"PDF, 12.44 MB",english,0,0,2019
+Dr. Basant Agarwal,https://tr.eg1lib.org/book/5342106/c89946,"Hands-On Data Structures and Algorithms with Python: Write complex and powerful code using the latest features of Python 3.7, 2nd Edition","PDF, 12.86 MB",english,0,5.0,2018
+Serg Masís,https://tr.eg1lib.org/book/16843837/bb7be8,Interpretable Machine Learning with Python: Learn to build interpretable high-performance models with hands-on real-world examples,"PDF, 15.39 MB",english,0,5.0,2021
+Claus Fuhrer,https://tr.eg1lib.org/book/16894525/8dde34,"Scientific Computing with Python: High-performance scientific computing with NumPy, SciPy, and pandas","PDF, 27.65 MB",english,0,5.0,2021
+Sayan Mukhopadhyay,https://tr.eg1lib.org/book/3703208/9ccaa8,"Advanced Data Analytics Using Python: With Machine Learning, Deep Learning and NLP Examples","PDF, 2.18 MB",english,0,0,2018
+Jason Brownlee,https://tr.eg1lib.org/book/16857790/c2ba9f,"Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python","PDF, 10.28 MB",english,5.0,5.0,2019
+Denis Rothman,https://tr.eg1lib.org/book/3668588/7ccdcf,Python Beginners Guide to Artificial Intelligence,"PDF, 44.19 MB",english,5.0,5.0,2018
+Jacob Beningo,https://tr.eg1lib.org/book/5456016/41531f,MicroPython Projects: A do-it-yourself guide to building embedded applications in various domains using Python,"PDF, 18.59 MB",english,0,0,2020
+Caleb Hattingh,https://tr.eg1lib.org/book/5349489/4a525d,Using Asyncio in Python: Understanding Python's Asynchronous Programming Features,"EPUB, 2.87 MB",english,0,0,2020
+[挪] Magnus Lie Hetland 著 袁国忠 译,https://tr.eg1lib.org/book/10980712/57a783,python基础教程（第三版）,"PDF, 10.15 MB",chinese,5.0,5.0,2018
+阿布,https://tr.eg1lib.org/book/11325425/e05156,量化交易之路 用Python做股票量化分析,"PDF, 104.55 MB",,4.0,0,2018
+Jason Brownlee,https://tr.eg1lib.org/book/8707462/e72ce2,"Imbalanced Classification with Python: Choose Better Metrics, Balance Skewed Classes, and Apply Cost-Sensitive Learning","PDF, 5.06 MB",english,0,0,2020
+Matthew Scarpino,https://tr.eg1lib.org/book/5329070/6dbbce,Algorithmic Trading with Interactive Brokers (Python and C++),"EPUB, 11.04 MB",english,0,0,2019
+Yves Hilpisch,https://tr.eg1lib.org/book/11316199/20eefd,Python for Algorithmic Trading: From Idea to Cloud Deployment,"EPUB, 19.59 MB",english,5.0,5.0,2021
+Chou,https://tr.eg1lib.org/book/3602576/e04eec,"Mastering Python networking : your one-stop solution to using Python for network automation, DevOps, and test-driven development","EPUB, 12.48 MB",english,0,0,2018
+Paul Orland,https://tr.eg1lib.org/book/9735044/6fa09d,"Math for Programmers: 3D Graphics, Machine Learning and Simulations with Python","PDF, 26.38 MB",english,5.0,5.0,2020
+Gaston C. Hillar,https://tr.eg1lib.org/book/2735807/1cea06,Internet of Things with Python: Interact with the world and rapidly prototype IoT applications using Python,"PDF, 27.98 MB",english,0,0,2016
+Eric Biernat,https://tr.eg1lib.org/book/2611210/8160bc,Data science : fondamentaux et études de cas : Machine learning avec Python et R,"PDF, 9.60 MB",french,3.0,0,2015
+Christian Mayer,https://tr.eg1lib.org/book/5475058/723632,Python One-Liners,"PDF, 6.70 MB",english,5.0,4.0,2020
+Anthony Scopatz,https://tr.eg1lib.org/book/2734587/71811c,Effective Computation in Physics: Field Guide to Research with Python,"PDF, 10.46 MB",english,5.0,3.0,2015
+关东升,https://tr.eg1lib.org/book/17750899/89cf83,看漫画学Python：有趣、有料、好玩、好用：全彩版,"EPUB, 53.45 MB",chinese,4.0,0,2020
+Dmitry Zinoviev,https://tr.eg1lib.org/book/3519515/6f07af,Complex Network Analysis in Python: Recognize - Construct - Visualize - Analyze - Interpret,"PDF, 16.73 MB",english,0,0,2018
+Martin Fitzpatrick,https://tr.eg1lib.org/book/5534827/76814c,"Create Simple GUI Applications, with Python & Qt5 The hands-on guide to building desktop apps with Python.","PDF, 7.38 MB",english,0,0,2019
+Lanaro,https://tr.eg1lib.org/book/11022893/894196,"Advanced Python Programming: Build high performance, concurrent, and multi-threaded apps with Python using proven design patterns","PDF, 12.89 MB",english,5.0,0,2019
+Eric Matthes,https://tr.eg1lib.org/book/5527105/e03597,"Python Flash Cards - Syntax, Concepts, and Examples","PDF, 1.03 MB",english,4.0,5.0,2019
+Dipanjan Sarkar,https://tr.eg1lib.org/book/3608321/f88298,Hands-On Transfer Learning with Python Implement Advanced Deep Learning and Neural Network Models Using TensorFlow and Keras,"EPUB, 46.15 MB",english,0,0,2018
+Ganesh Sanjiv Naik,https://tr.eg1lib.org/book/3715980/697fe8,Mastering Python Scripting for System Administrators,"EPUB, 3.90 MB",english,4.0,0,2019
+Patrick Viafore,https://tr.eg1lib.org/book/17121378/65a696,Robust Python: Write Clean and Maintainable Code,"PDF, 7.21 MB",english,5.0,5.0,2021
+Christian Mayer,https://tr.eg1lib.org/book/5450845/b19a58,Python One-Liners,"EPUB, 3.36 MB",english,5.0,0,2020
+Abhishek Ratan,https://tr.eg1lib.org/book/3640160/814532,Practical Network Automation: Leverage the power of Python and Ansible to optimize your network,"PDF, 12.44 MB",english,0,0,2017
+Jamie Chan,https://tr.eg1lib.org/book/5266367/170b3d,Learn Python in One Day and Learn It Well,"MOBI , 1.15 MB",english,0,0,2017
+Joel Grus,https://tr.eg1lib.org/book/2563848/fbbf4b,Data Science from Scratch: First Principles with Python,"PDF, 5.02 MB",english,0,0,2015
+Dusty Phillips,https://tr.eg1lib.org/book/5393645/400183,Python 3 Object-Oriented Programming: Build robust and maintainable software with object-oriented design patterns in Python 3.8,"ZIP, 12.68 MB",english,4.0,5.0,2018
+Andrew Park,https://tr.eg1lib.org/book/5690391/cb12b9,"Data Science for Beginners: 4 Books in 1: Python Programming, Data Analysis, Machine Learning. A Complete Overview to Master The Art of Data Science From Scratch Using Python for Business","EPUB, 916 KB",english,0,0,2020
+N D Lewis,https://tr.eg1lib.org/book/3384619/151acf,Deep Time Series Forecasting with Python: An Intuitive Introduction to Deep Learning for Applied Time Series Modeling,"PDF, 1.58 MB",english,5.0,0,2016
+Allen B. Downey,https://tr.eg1lib.org/book/2737587/ab97d5,Think Bayes: Bayesian Statistics in Python,"PDF, 11.78 MB",english,5.0,5.0,2013
+Sufyan bin Uzayr,https://tr.eg1lib.org/book/18733814/726c18,Mastering Python for Web: A Beginner's Guide (Mastering Computer Science),"PDF, 5.44 MB",english,2.5,3.0,2022
+Naomi Ceder,https://tr.eg1lib.org/book/3590111/62c447,The Quick Python Book,"PDF, 13.75 MB",english,0,1.0,2018
+Antonio Gulli,https://tr.eg1lib.org/book/3680014/10dd8f,Deep Learning with Keras: Implementing Deep Learning Models and Neural Networks with the power of Python,"PDF, 17.62 MB",english,0,0,2017
+Jaan Kiusalaas,https://tr.eg1lib.org/book/2373245/0ef144,Numerical Methods in Engineering with Python 3,"PDF, 2.29 MB",english,5.0,5.0,2013
+Test,https://tr.eg1lib.org/book/5682795/ea7b00,"Python Programming: 3 BOOKS IN 1 Learn machine learning, data science and analysis with a crash course for beginners. Included coding exercises for artificial intelligence, Numpy, Pandas and Ipython.","EPUB, 9.13 MB",english,0,0,2020
+Grid,https://tr.eg1lib.org/book/11368196/ec39fb,"Computer Programming for Beginners and Cybersecurity: The Ultimate Manual to Learn step by step how to Professionally Code and Protect Your Data. This Book includes: Python, Java, C++ & Cybersecurity","PDF, 2.40 MB",english,5.0,0,2021
+Black Dog Media,https://tr.eg1lib.org/book/5808656/3309d3,"The Complete Python Manual, 5th Edition","PDF, 136.77 MB",english,0,0,2020
+Steven F. Lott,https://tr.eg1lib.org/book/3675360/3bca17,"Functional Python Programming: Discover the power of functional programming, generator functions, lazy evaluation, the built-in itertools library, and monads","PDF, 2.52 MB",english,0,0,2018
+Adel,https://tr.eg1lib.org/book/11172306/d249e6,"Learn and Practice Python in 7 Days From Zero To Hero: Learn Python Step by Step,Learn Python in 7 days","EPUB, 7.30 MB",english,0,0,2021
+Rubin H. Landau,https://tr.eg1lib.org/book/3580383/291a37,Computational Problems for Physics: With Guided Solutions Using Python,"PDF, 46.21 MB",english,0,0,2018
+Michael Heydt,https://tr.eg1lib.org/book/3600723/deac39,Python Web Scraping Cookbook,"EPUB, 9.87 MB",english,0,0,2018
+Paul Deitel,https://tr.eg1lib.org/book/17537272/ff7235,"Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and The Cloud, Global Edition","PDF, 49.28 MB",english,5.0,5.0,2021
+Unknown,https://tr.eg1lib.org/book/2740800/2afbbd,"Natural Language Processing in Python: Master Data Science and Machine Learning for spam detection, sentiment analysis, latent semantic analysis, and article spinning (Machine Learning in Python)","EPUB, 1.17 MB",english,0,0,2016
+Caleb Hattingh,https://tr.eg1lib.org/book/5405065/567ad8,Using Asyncio in Python: Understanding Python's Asynchronous Programming Features,"PDF, 5.81 MB",english,0,5.0,2020
+Josh Hugh Learning,https://tr.eg1lib.org/book/5679969/cbb8d3,"Python Machine Learning. A Crash Course for Beginners to Understand Machine learning, Artificial Intelligence, Neural Networks, and Deep Learning with Scikit-Learn, TensorFlow, and Keras.","PDF, 1.30 MB",english,0,0,2019
+Acodemy,https://tr.eg1lib.org/book/3312588/3f57a9,Python: Learn Web Scraping with Python In A DAY! : The Ultimate Crash Course to Learning the Basics of Web Scraping with Python In No Time,"EPUB, 199 KB",english,0,0,2015
+Learning,https://tr.eg1lib.org/book/18777655/27d407,52 Amazing Python Projects For Developers,"PDF, 710 KB",english,0,0,2022
+Joel Grus,https://tr.eg1lib.org/book/4991753/a55037,Data Science do zero: Primeiras regras com o Python,"PDF, 5.26 MB",portuguese,4.0,4.5,2016
+Clinton Sheppard,https://tr.eg1lib.org/book/2838917/6b5d40,Genetic Algorithms with Python,"PDF, 9.34 MB",english,0,0,2016
+Kenneth Reitz,https://tr.eg1lib.org/book/2764498/8bd61a,The Hitchhiker’s Guide to Python: Best Practices for Development,"PDF, 5.24 MB",english,0,0,2016
+Ivan Idris,https://tr.eg1lib.org/book/2736185/1acb70,"NumPy Cookbook, 2nd Edition: Over 90 fascinating recipes to learn and perform mathematical, scientific, and engineering Python computations with NumPy","PDF, 15.11 MB",english,5.0,5.0,2015
+Alex Gezerlis,https://tr.eg1lib.org/book/5706506/2ff1e8,Numerical Methods in Physics with Python,"PDF, 6.51 MB",english,5.0,5.0,2020
+作者[加] 约瑟夫·豪斯（Joseph Howse）[爱尔兰] 乔·米尼奇诺（Joe Minichino）  译者刘冰高博,https://tr.eg1lib.org/book/18076844/e03322,OpenCV 4计算机视觉 Python语言实现(原书第3版),"PDF, 16.38 MB",chinese,5.0,5.0,2021
+Zadka,https://tr.eg1lib.org/book/5211088/5469f0,DevOps in Python : Infrastructure as Python,"PDF, 1.84 MB",english,5.0,0,2019
+Vo. T. H,https://tr.eg1lib.org/book/3430476/3cb0fd,"Python : end-to-end data analysis : leverage the power of Python to clean, scrape, analyze, and visualize your data : a course in three modules.","PDF, 22.09 MB",english,0,0,2017
+Allen B. Downey,https://tr.eg1lib.org/book/16986783/6e708d,Think Bayes: Bayesian Statistics in Python,"PDF, 18.47 MB",english,4.0,5.0,2021
+Danny Staple,https://tr.eg1lib.org/book/3698165/045ef6,Learn Robotics Programming: Build and control autonomous robots using Raspberry Pi 3 and Python,"PDF, 105.77 MB",english,0,0,2018
+Michael Beyeler,https://tr.eg1lib.org/book/3647504/4d09d5,Machine Learning for OpenCV: Intelligent image processing with Python,"PDF, 27.77 MB",english,0,0,2017
+David Mertz,https://tr.eg1lib.org/book/11924947/cb65f8,"Cleaning Data for Effective Data Science: Doing the other 80% of the work with Python, R, and command-line tools","PDF, 6.62 MB",english,4.0,5.0,2021
+Joel Lawhead,https://tr.eg1lib.org/book/5277461/5502ff,Learning Geospatial Analysis with Python: Understand GIS fundamentals and perform remote sensing data analysis using Python 3.7,"PDF, 57.18 MB",english,0,5.0,2019
+Chou,https://tr.eg1lib.org/book/4994709/c69ce9,Python network programming : conquer all your networking challenges with the powerful Python language,"EPUB, 17.80 MB",english,0,4.0,2019
+Bill Lubanovic,https://tr.eg1lib.org/book/5286480/48b235,Introducing Python: Modern Computing in Simple Packages,"EPUB, 10.85 MB",english,5.0,0,2019
+Ben Shaw,https://tr.eg1lib.org/book/11950058/926fc7,Web Development with Django: Learn to build modern web applications with a Python-based framework,"PDF, 25.98 MB",english,4.0,5.0,2021
+John Thomas,https://tr.eg1lib.org/book/18784462/e4ff95,Data Structure and Algorithms With Python: The Ultimate Guide Towards Coding,"PDF, 1.27 MB",english,0,0,2022
+Clinton W. Brownley,https://tr.eg1lib.org/book/5404429/7d95d1,Working with Excel files in Python,"EPUB, 3.03 MB",english,4.0,0,2018
+埃里克·马瑟斯 [埃里克·马瑟斯],https://tr.eg1lib.org/book/16660470/cd018e,Python编程：从入门到实践（第2版）（新版上线！！！！沿袭第1版讲解清晰透彻、循序渐进的特点，并全面升级！源代码文件+视频讲解+配套编程环境，零基础自学Python一本就够！）（图灵图书）,"EPUB, 5.13 MB",chinese,5.0,4.0,2020
+Alan D. Moore,https://tr.eg1lib.org/book/3560811/f525ae,Python GUI programming with Tkinter,"PDF, 3.43 MB",english,0,0,2018
+Bill Lubanovic,https://tr.eg1lib.org/book/5706549/67d448,Introducing Python: Modern Computing in Simple Packages,"PDF, 19.72 MB",english,5.0,3.0,2019
+Alphy Books,https://tr.eg1lib.org/book/5477222/48b6e0,Hacking: Hacking With Python - The Complete Beginner's Course to Learn Ethical Hacking With Python in 7 Clear-Cut Lessons - Including Dozens of Practical Examples & Exercises (Hacking Series Book 1),"EPUB, 197 KB",english,3.0,0,2016
+Alan D. Moore,https://tr.eg1lib.org/book/5642771/ed9926,Python GUI Programming - A Complete Reference Guide: Develop responsive and powerful GUI applications with PyQt and Tkinter,"EPUB, 4.15 MB",english,5.0,0,2019
+(美)Mahesh Venkitachalam,https://tr.eg1lib.org/book/5746773/5f7341,Python极客项目编程,"PDF, 5.97 MB",chinese,4.0,5.0,
+John Hunt,https://tr.eg1lib.org/book/5226734/9e82bb,A Beginners Guide To Python 3 Programming,"PDF, 29.07 MB",english,0,0,2019
+[美]大卫·比斯利（David Beazley），布莱恩·K. 琼斯（Brian K.Jones）,https://tr.eg1lib.org/book/12790487/e7701d,Python Cookbook（第3版）中文版,"PDF, 7.25 MB",chinese,5.0,5.0,2020
+Katharine Jarmu,https://tr.eg1lib.org/book/5413135/8d0b6f,用 Python 写网络爬虫,"PDF, 11.95 MB",chinese,3.0,0,2018
+Tarek Amr,https://tr.eg1lib.org/book/5678835/228061,Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits: A practical guide to implementing supervised and unsupervised machine learning algorithms in Python,"PDF, 12.37 MB",english,0,0,2020
+Dr. Brian Tuomanen,https://tr.eg1lib.org/book/5002329/09ed36,Hands-On GPU Programming with Python and CUDA: Explore high-performance parallel computing with CUDA,"EPUB, 10.01 MB",english,0,0,2018
+Jake VanderPlas,https://tr.eg1lib.org/book/13195603/f0e890,Python数据科学手册,"PDF, 15.21 MB",chinese,5.0,5.0,2018
+Mike McGrath,https://tr.eg1lib.org/book/3561309/a83453,Python in easy steps,"PDF, 8.14 MB",english,5.0,0,2018
+Nicholas H. Tollervey,https://tr.eg1lib.org/book/3366886/09d3c6,Programming with MicroPython: Embedded Programming with Microcontrollers and Python,"PDF, 17.14 MB",english,0,0,2017
+Ashwin Pajankar (auth.),https://tr.eg1lib.org/book/3307996/e0b246,"Raspberry Pi Image Processing Programming: Develop Real-Life Examples with Python, Pillow, and SciPy","PDF, 3.78 MB",english,5.0,5.0,2017
+Zed A. Shaw,https://tr.eg1lib.org/book/3361760/8a4667,Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code,"EPUB, 12.38 MB",english,5.0,5.0,2017
+Mark Roseman,https://tr.eg1lib.org/book/2694069/c1b69c,"Modern Tkinter for Busy Python Developers: Quickly learn to create great looking user interfaces for Windows, Mac and Linux using Python's standard GUI toolkit","PDF, 2.07 MB",english,0,0,2012
+Thomas Haslwanter,https://tr.eg1lib.org/book/2802520/5a5177,An Introduction to Statistics with Python: With Applications in the Life Sciences,"PDF, 4.58 MB",english,0,0,2016
+Publishing,https://tr.eg1lib.org/book/6099576/3bf189,"Python Machine Learning for Beginners: Learning from Scratch Numpy, Pandas, Matplotlib, Seaborn, SKlearn and TensorFlow 2.0 for Machine Learning & Deep Learning- With Exercises and Hands-on Projects","EPUB, 10.05 MB",english,0,5.0,2020
+Shruti Jadon,https://tr.eg1lib.org/book/5558587/02e355,Hands-On One-shot Learning with Python: Learn to implement fast and accurate deep learning models with fewer training samples using PyTorch,"PDF, 13.51 MB",english,0,0,2020
+Bonny P. McClain,https://tr.eg1lib.org/book/17128890/2ee870,Python for Geospatial Data Analysis (First Early Release),"PDF, 9.19 MB",english,0,4.0,2022
+Al Sweigart,https://tr.eg1lib.org/book/5413173/d0b195,Automate the Boring Stuff with Python: Practical Programming for Total Beginners,"EPUB, 4.77 MB",english,1.0,0,2020
+Aman Kedia,https://tr.eg1lib.org/book/5598995/a0e5af,Hands-On Python Natural Language Processing: Explore tools and techniques to analyze and process text with a view to building real-world NLP applications,"PDF, 8.58 MB",english,4.5,5.0,2020
+Jiri Pik,https://tr.eg1lib.org/book/17038050/175ff4,Hands-On Financial Trading with Python,"PDF, 13.78 MB",english,4.0,0,2021
+Paul Crickard,https://tr.eg1lib.org/book/12883329/5f869c,Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python,"PDF, 10.51 MB",english,5.0,0,2020
+Max Humber,https://tr.eg1lib.org/book/3601890/9334b8,"Personal Finance with Python: Using pandas, Requests, and Recurrent","PDF, 3.84 MB",english,5.0,0,2018
+Allen B. Downey,https://tr.eg1lib.org/book/3618512/00d524,Pense em Python,"PDF, 1.61 MB",portuguese,0,0,2002
+David Beazley,https://tr.eg1lib.org/book/16474087/1dc762,Python Distilled (Developer's Library) (1st Edition),"EPUB, 6.16 MB",english,2.0,1.0,2021
+Mark Summerfield,https://tr.eg1lib.org/book/681708/9f1eb6,Programming in Python 3: A Complete Introduction to the Python Language,"PDF, 2.54 MB",english,0,0,2008
+M. MOka (FAKE),https://tr.eg1lib.org/book/2699024/fa903e,Use MySQL with Python (FAKE),"PDF, 17.68 MB",english,0,0,2016
+Hadelin de Ponteves,https://tr.eg1lib.org/book/5452538/834d6c,"AI Crash Course: A Fun and Hands-On Introduction to Reinforcement Learning, Deep Learning, and Artificial Intelligence with Python","PDF, 9.44 MB",english,0,0,2019
+Stefanie Molin,https://tr.eg1lib.org/book/5693858/1f9813,"Hands-On Data Analysis with Pandas: Efficiently perform data collection, wrangling, analysis, and visualization using Python","PDF, 16.72 MB",english,0,0,2019
+Real Python,https://tr.eg1lib.org/book/17507364/3bb1dc,Python Basics: A Practical Introduction to Python 3,"PDF, 5.81 MB",english,0,0,2020
+Elias Dabbas,https://tr.eg1lib.org/book/14621462/c87729,Interactive Dashboards and Data Apps with Plotly and Dash: Harness the power of a fully fledged frontend web framework in Python – no JavaScript required,"PDF, 20.19 MB",english,0,0,2021
+Sebastian Bassi,https://tr.eg1lib.org/book/3335141/4d806b,Python for Bioinformatics,"PDF, 4.97 MB",english,0,0,2017
+Samuel Dauzon,https://tr.eg1lib.org/book/2879063/944ee6,Django : web development with Python,"PDF, 8.08 MB",english,4.0,5.0,2016
+Pradeeban Kathiravelu,https://tr.eg1lib.org/book/3640161/a4942a,Python Network Programming Cookbook: Practical solutions to overcome real-world networking challenges,"PDF, 15.41 MB",english,3.0,5.0,2017
+Ankur Ankan,https://tr.eg1lib.org/book/3608882/2c4149,Hands-On Markov Models with Python,"EPUB, 24.39 MB",english,0,0,2018
+Puri G.M.,https://tr.eg1lib.org/book/3058363/ceb28f,Python Scripts for ABAQUS: Learn by Example,"PDF, 182.31 MB",english,5.0,0,
+Alessandro Molina,https://tr.eg1lib.org/book/11646337/169eb3,"Crafting Test-Driven Software with Python: Write test suites that scale with your applications needs and complexity, using Python and PyTest","PDF, 4.12 MB",english,0,5.0,2021
+Dimitrios Kouzis-Loukas,https://tr.eg1lib.org/book/2968602/2a6a7d,Learning Scrapy: Learn the art of efficient web scraping and crawling with Python,"PDF, 18.13 MB",english,0,0,2016
+Soledad Galli,https://tr.eg1lib.org/book/6099460/82e7a4,"Python Feature Engineering Cookbook: Over 70 Recipes for Creating, Engineering, and Transforming Features to Build Machine Learning Models","PDF, 8.32 MB",english,0,0,2020
+崔庆才,https://tr.eg1lib.org/book/5640390/04c677,Python 3网络爬虫开发实战,"PDF, 376.51 MB",chinese,4.0,0,2018
+Al Sweigart,https://tr.eg1lib.org/book/5205910/9fab22,Automatize Tarefas Maçantes com Python,"PDF, 6.37 MB",portuguese,5.0,5.0,2017
+J. Burton Browning,https://tr.eg1lib.org/book/3712833/c8b7bd,Pro Python 3: Features and Tools for Professional Development,"PDF, 5.94 MB",english,0,0,2019
+[德] Andreas C. Müller [美] Sarah Guido,https://tr.eg1lib.org/book/12216510/cef690,Python机器学习基础教程,"EPUB, 6.12 MB",chinese,5.0,5.0,2018
+Andrea Lonza,https://tr.eg1lib.org/book/5280504/d4212d,"Reinforcement Learning Algorithms with Python: Learn, understand, and develop smart algorithms for addressing AI challenges","PDF, 21.98 MB",english,0,0,2019
+Paul Barry,https://tr.eg1lib.org/book/5406989/33f565,"Head First Python, 2nd Edition","EPUB, 47.74 MB",english,4.0,5.0,2018
+Gaston C. Hillar,https://tr.eg1lib.org/book/5282338/3d3e97,"Hands-On RESTful Python Web Services: Develop RESTful web services or APIs with modern Python 3.7, 2nd Edition","PDF, 11.80 MB",english,0,0,2018
+Michael Walker,https://tr.eg1lib.org/book/11149574/a5a823,Python Data Cleaning Cookbook: Modern techniques and Python tools to detect and remove dirty data and extract key insights,"PDF, 3.25 MB",english,4.0,0,2020
+MARK LUTZ,https://tr.eg1lib.org/book/1216722/53742d,APRENDENDO PYTHON,"PDF, 20.38 MB",portuguese,0,0,2007
+Frank Kane,https://tr.eg1lib.org/book/3419019/943ffb,Hands-on data science and Python machine learning : perform data mining and machine learning efficiently using Python and Spark,"PDF, 15.28 MB",english,0,0,2017
+Hemant Jain,https://tr.eg1lib.org/book/3706455/5f9309,Problem Solving in Data Structures & Algorithms Using Python: Programming Interview Guide,"EPUB, 3.10 MB",english,0,0,2016
+Burkhard A. Meier,https://tr.eg1lib.org/book/2736306/1047e2,Python GUI Programming Cookbook: Over 80 object-oriented recipes to help you create mind-blowing GUIs in Python,"PDF, 9.15 MB",english,0,0,2015
+罗攀 蒋仟,https://tr.eg1lib.org/book/17401648/d61ba7,从零开始学Python网络爬虫,"PDF, 143.87 MB",chinese,0,0,2021
+Javier Riverola Gurruchaga,https://tr.eg1lib.org/book/3653522/c12de9,"Python Recipes for Engineers and Scientists: Scripts that devour your integrals, equations, differential equations, and interpolations!","PDF, 3.16 MB",english,0,0,2018
+David Kopec [Kopec,https://tr.eg1lib.org/book/16307516/61b62b,算法精粹：经典计算机科学问题的 Python 实现,"EPUB, 2.22 MB",chinese,4.0,5.0,2020
+Brett Slatkin,https://tr.eg1lib.org/book/5410092/89c7d4,Effective Python : 90 specific ways to write better Python,"EPUB, 54.06 MB",english,5.0,0,2020
+Eric Matthes,https://tr.eg1lib.org/book/5416472/00bb74,"Python Crash Course: A Hands-On, Project-Based Introduction to Programming, 2nd Edition","EPUB, 20.47 MB",english,5.0,0,2019
+Orhan Gazi Yalçın,https://tr.eg1lib.org/book/11208821/16c243,Applied Neural Networks with TensorFlow 2: API Oriented Deep Learning with Python,"PDF, 6.19 MB",english,0,0,2021
+Charles Bell,https://tr.eg1lib.org/book/5588249/9eb3eb,"Beginning Sensor Networks with XBee, Raspberry Pi, and Arduino: Sensing the World with Python and MicroPython","PDF, 13.89 MB",english,0,0,2020
+George Mount,https://tr.eg1lib.org/book/16973283/785f05,Advancing into Analytics: From Excel to Python and R,"PDF, 9.48 MB",english,5.0,5.0,2021
+[美] Micha Gorelick 戈雷利克 Ian Ozsvald 欧日沃尔德,https://tr.eg1lib.org/book/12790504/27bcfa,Python高性能编程【文字版】,"PDF, 17.05 MB",chinese,0,5.0,2021
+Micha Gorelick,https://tr.eg1lib.org/book/2383471/4dfd2c,High Performance Python: Practical Performant Programming for Humans,"PDF, 7.60 MB",english,0,0,2014
+Adrian Rosebrock,https://tr.eg1lib.org/book/3561346/c4e0b8,"Deep Learning for Computer Vision with Python, Volume 2","PDF, 9.53 MB",english,5.0,0,2017
+Valentina Porcu,https://tr.eg1lib.org/book/3646646/87b3f8,Python for Data Mining Quick Syntax Reference,"PDF, 4.47 MB",english,5.0,0,2019
+Manish Sethi,https://tr.eg1lib.org/book/3410707/cbdf11,"Cloud Native Python: Build and deploy resilent applications on the cloud using microservices, AWS, Azure and more","PDF, 40.74 MB",english,0,0,2017
+Dr. Alun Brain,https://tr.eg1lib.org/book/5566414/65a7a4,Statistical analysis in Excel and Python,"PDF, 27.34 MB",english,0,0,2020
+Christian Mayer,https://tr.eg1lib.org/book/3705310/833bb4,Coffee Break Python: 50 Workouts to Kickstart Your Rapid Code Understanding in Python,"PDF, 2.32 MB",english,0,0,2018
+Martin Fitzpatrick,https://tr.eg1lib.org/book/5773571/fb5ebd,Create GUI Applications with Python & Qt5 - PySide2 Edition,"PDF, 11.42 MB",english,0,0,2020
+Raul Gonzalez Duque,https://tr.eg1lib.org/book/842117/fdf1c3,Python para todos,"PDF, 1.22 MB",spanish,5.0,0,
+Mark Fenner,https://tr.eg1lib.org/book/5007915/54c730,Machine Learning with Python for Everyone,"EPUB, 15.55 MB",english,0,0,2019
+James Herron [Herron,https://tr.eg1lib.org/book/11307574/567573,Learn Python Programming: The Comprehensive Guide to Learn and Apply Python by learning coding best practices and advanced programming concepts.,"PDF, 1.22 MB",english,1.0,0,2021
+Leonard Apeltsin,https://tr.eg1lib.org/book/17992715/4a0492,Data Science Bookcamp: Five real-world Python projects (Final Release),"PDF, 42.41 MB",english,4.0,5.0,2021
+Marc Wintjen,https://tr.eg1lib.org/book/5603706/fcc9b5,Practical Data Analysis Using Jupyter Notebook: Learn how to speak the language of data by extracting useful and actionable insights using Python,"PDF, 7.72 MB",english,0,5.0,2020
+Hemant Jain,https://tr.eg1lib.org/book/5357896/f018ed,Problem Solving in Data Structures & Algorithms Using Python: Programming Interview Guide,"PDF, 4.54 MB",english,0,4.0,2017
+Luciano Ramalho,https://tr.eg1lib.org/book/5433175/d73cf7,Fluent Python,"EPUB, 4.91 MB",english,2.0,0,2020
+David Paper,https://tr.eg1lib.org/book/5301382/1f3e22,Hands-on Scikit-Learn for Machine Learning Applications: Data Science Fundamentals with Python,"PDF, 3.17 MB",english,0,0,2020
+Roy Jafari,https://tr.eg1lib.org/book/18816724/65b9d2,Hands-On Data Preprocessing in Python: Learn how to effectively prepare data for successful data analytics (Final Release),"PDF, 48.48 MB",english,4.0,0,2022
+Ben G Weber,https://tr.eg1lib.org/book/5477689/920097,Data Science in Production: Building Scalable Model Pipelines with Python,"PDF, 2.64 MB",english,0,5.0,2020
+Jon Rulta,https://tr.eg1lib.org/book/11317295/91c258,Python True Book,"PDF, 8.84 MB",english,3.5,0,2021
+Sean McManus,https://tr.eg1lib.org/book/3704523/926360,Mission Python: Code a Space Adventure Game!,"EPUB, 27.86 MB",english,0,0,2018
+Harry J.W. Percival,https://tr.eg1lib.org/book/16853155/9e782f,"Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices","PDF, 9.94 MB",english,0,1.5,2021
+Sridhar Alla,https://tr.eg1lib.org/book/5397972/18e719,Beginning Anomaly Detection Using Python-Based Deep Learning: With Keras and PyTorch,"PDF, 26.55 MB",english,0,5.0,2019
+Bastian Ballmann,https://tr.eg1lib.org/book/11633454/378136,Understanding Network Hacks: Attack and Defense with Python 3,"PDF, 3.23 MB",english,0,0,2021
+Gilles Degols,https://tr.eg1lib.org/book/3689449/0c74ed,Apprendre la programmation web avec Python & Django: Principes et bonnes pratiques pour les sites web dynamiques,"PDF, 20.54 MB",french,4.0,0,2018
+Lazy Programmer,https://tr.eg1lib.org/book/2740844/f55b69,"Unsupervised Machine Learning in Python: Master Data Science and Machine Learning with Cluster Analysis, Gaussian Mixture Models, and Principal Components Analysis","EPUB, 1.28 MB",english,0,0,2016
+Bhargav Srinivasa-Desikan [Bhargav Srinivasa-Desikan],https://tr.eg1lib.org/book/3629130/efe8d5,"Natural Language Processing and Computational Linguistics: A Practical Guide to Text Analysis With Python, Gensim, spaCy, and Keras","EPUB, 1.41 MB",english,0,0,2018
+Simon Weber,https://tr.eg1lib.org/book/5573019/1c6874,Python Programming for Kids: Beginners Guide with Easy to Learn Activities to Unlock the Adventurous World of Python Programming,"PDF, 1.76 MB",english,0,0,2020
+Qingkai Kong,https://tr.eg1lib.org/book/11070953/120a62,Python Programming and Numerical Methods. A Guide for Engineers and Scientists,"PDF, 3.55 MB",english,5.0,5.0,2021
+Brendan Scott,https://tr.eg1lib.org/book/5406979/ec272a,Python For Kids For Dummies,"EPUB, 4.42 MB",english,0,0,2018
+Giancarlo Zaccone,https://tr.eg1lib.org/book/5291163/9e0fcf,Python Parallel Programming Cookbook: Over 70 recipes to solve challenges in multithreading and distributed system with Python 3,"PDF, 6.27 MB",english,0,0,2019
+Sudharsan Ravichandiran,https://tr.eg1lib.org/book/3695207/5a2496,Hands-On Reinforcement Learning with Python: Master reinforcement and deep reinforcement learning using OpenAI Gym and TensorFlow,"EPUB, 8.76 MB",english,0,0,2018
+Lentin Joseph,https://tr.eg1lib.org/book/2736942/de392b,"Learning Robotics Using Python: Design, simulate, program, and prototype an interactive autonomous mobile robot from scratch with the help of Python, ROS, and Open-CV!","PDF, 8.25 MB",english,5.0,0,2015
+PRATEEK GUPTA,https://tr.eg1lib.org/book/17356556/1c9ad0,"Practical Data Science with Jupyter: Explore Data Cleaning, Pre-processing, Data Wrangling, Feature Engineering and Machine Learning using Python and Jupyter (English Edition)","PDF, 19.48 MB",english,5.0,1.0,2021
+[印] Hemant Kumar Mehta 著；陶俊杰,https://tr.eg1lib.org/book/5458041/430d20,Python科学计算基础教程,"PDF, 11.20 MB",chinese,0,5.0,2016
+Prateek Joshi,https://tr.eg1lib.org/book/3057698/1d199b,OpenCV with Python By Example: Build real-world computer vision applications and develop cool demos using OpenCV for Python,"PDF, 13.30 MB",english,4.5,5.0,2015
+Siddhartha Chatterjee,https://tr.eg1lib.org/book/3598356/4eb6a4,"Python Social Media Analytics: Analyze and visualize data from Twitter, Youtube, GitHub, and more","PDF, 12.40 MB",english,4.0,0,2017
+Burkhard A. Meier,https://tr.eg1lib.org/book/3602487/0d4b0b,Python GUI Programming Cookbook,"PDF, 7.60 MB",english,0,0,2017
